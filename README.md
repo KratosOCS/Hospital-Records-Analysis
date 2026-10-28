@@ -73,3 +73,47 @@ The dataset consists of:
 - Each row represents an individual patient record.
 - The dataset contains demographic, medical, and financial information.
 - The data will undergo cleaning before analysis.
+
+## Phase 2: Data Cleaning
+
+The second phase of the project focused on preparing the dataset for analysis by improving its quality, consistency and readability.
+
+### Data Cleaning Tasks Performed
+### Creating a Working Copy
+Before making any changes, a new worksheet named Cleaned Data was created by copying all records from the original worksheet. This ensured that the raw dataset remained unchanged and could always be referenced if needed.
+
+#### Duplicate Records
+- Checked the dataset for duplicate records.
+- **Result:** No duplicate records were found.
+
+#### Missing Values
+- Reviewed all columns for blank or missing values.
+- **Result:** No missing values were identified.
+
+#### Data Formatting
+- Converted the **Phone Number** column to a numeric format.
+- Formatted the **Bill Amount** column as **Kenyan Shillings (KSh)** currency.
+
+#### Feature Engineering
+To improve readability, a new **Full Name** column was created by combining the patient's first and last names using the Excel `CONCAT` function.
+
+Example:
+
+```excel
+=CONCAT(B2," ",C2)
+```
+
+After verifying the results, the original **First Name** and **Last Name** columns were hidden to eliminate redundancy.
+
+#### Worksheet Formatting
+- Adjusted column widths to ensure all values are clearly visible and easy to read.
+
+### Summary
+
+The dataset is now:
+
+- ✅ Free of duplicate records
+- ✅ Free of missing values
+- ✅ Properly formatted for analysis
+- ✅ Simplified with a single **Full Name** column
+- ✅ Ready for exploratory data analysis (EDA)
