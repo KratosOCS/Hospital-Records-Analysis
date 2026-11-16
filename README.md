@@ -112,8 +112,44 @@ After verifying the results, the original **First Name** and **Last Name** colum
 
 The dataset is now:
 
-- ✅ Free of duplicate records
-- ✅ Free of missing values
-- ✅ Properly formatted for analysis
-- ✅ Simplified with a single **Full Name** column
-- ✅ Ready for exploratory data analysis (EDA)
+- Free of duplicate records
+- Free of missing values
+- Properly formatted for analysis
+- Simplified with a single **Full Name** column
+- Ready for exploratory data analysis (EDA)
+
+## Phase 3: Exploratory Data Analysis
+In this phase of my Hospital Records Analysis project, I moved from data cleaning to Exploratory Data Analysis (EDA) using Microsoft Excel.I created a separate worksheet named EDA. It contains the following:
+- Key Performance Indicators (KPI)
+- Pivot tables
+- Findings from the analysis
+
+Separating these analysis from the raw and cleaned data makes the workbook much easier to manage and reflects a structured workflow. 
+
+### KPIs
+I started by calculating some important metrics that provide a quick overview of the dataset.
+
+These included:
+
+- Total number of patients
+- Average patient age
+- Youngest patient
+- Oldest patient
+- Total bill amount
+- Average bill amount
+- Highest bill amount
+- Lowest bill amount
+
+Creating these Key Performance Indicators gave me a high-level understanding of the data before exploring it further.
+
+### Pivot Tables
+I used PivotTables to answer questions such as:
+
+- Which department treated the most patients?
+- Which gender visited the hospital most frequently?
+- Which payment status occurred the most?
+- Which diagnosis appeared most often?
+What I learnt during this process was choosing the correct calculation.
+
+Initially, I summarised the Patient ID field using Sum, which produced incorrect results because Patient IDs are identifiers—not values that should be added together. After changing the Value Field Settings to Count, the PivotTables correctly showed the number of patients in each category. It was a small change, but an important reminder that understanding the data is just as important as knowing how to use the software.
+The next step will be to create charts from these findings before importing the dataset into SQL for more advanced analysis.
