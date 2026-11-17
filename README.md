@@ -153,3 +153,36 @@ What I learnt during this process was choosing the correct calculation.
 
 Initially, I summarised the Patient ID field using Sum, which produced incorrect results because Patient IDs are identifiers—not values that should be added together. After changing the Value Field Settings to Count, the PivotTables correctly showed the number of patients in each category. It was a small change, but an important reminder that understanding the data is just as important as knowing how to use the software.
 The next step will be to create charts from these findings before importing the dataset into SQL for more advanced analysis.
+
+## Phase 4: Building Excel Dashboard
+With the analysis complete, I designed an interactive dashboard to present the findings. It includes:
+The dashboard includes:
+
+KPI cards for:
+- Total Patients
+- Average Patient Age
+- Total Bill Amount
+- Highest Bill Amount
+
+Visualisations  showing:
+- Patients by Department
+- Gender Distribution
+- Payment Status Distribution
+- Diagnosis Analysis
+
+One of my favourite parts was using slicers. These allow the entire dashboard to update instantly based on the selected filters, making it much easier to explore the data from different perspectives. Building this feature helped me appreciate how interactive reports improve the user experience and support faster decision-making. I added slicers for:
+
+- Hospital Department
+- Gender
+- Payment Status
+- Diagnosis
+
+Beyond creating charts, I wanted the dashboard to have a clean and professional appearance.To achieve this, I:
+
+- Removed Excel gridlines to create a cleaner layout.
+- Hid the row and column headings so the dashboard looked more like a business report than a spreadsheet.
+- Used consistent fonts and spacing to improve readability.
+- Organized the KPIs and charts into a structured layout that is easy to understand at a glance.
+
+These small design improvements made a significant difference in the overall presentation of the dashboard.
+The Excel phase of my project is now complete.
