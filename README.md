@@ -186,3 +186,34 @@ Beyond creating charts, I wanted the dashboard to have a clean and professional 
 
 These small design improvements made a significant difference in the overall presentation of the dashboard.
 The Excel phase of my project is now complete.
+
+## Phase 5: SQL
+One of my goals for this project is to analyze the same dataset using different tools. By doing this, I can compare how Excel and SQL solve the same business problems while building practical skills in both.
+
+### Creating a Database
+Using PostgreSQL and DBeaver, I created a new database named:
+
+hospital_analysis
+
+This database will store everything related to my project as I continue building. It will establish a place where the data will live before any tables or queries are created.
+
+### Creating a Schema
+After creating the database, I created a schema named:
+
+hospital
+
+A database is the overall container, while a schema helps organise related database objects such as tables, views, and functions. Using a dedicated schema makes the project more organised and easier to manage as it grows.
+
+### Creating Database Table
+Before importing the data, I first created a table in my SQL environment. I designed the table structure based on the columns available in the dataset, ensuring that each field had the correct data type and could store the information accurately.
+
+### Importing the Hospital Analysis dataset
+After creating the table, I converted my Excel worksheet into a CSV file and imported it into the database after I verified that the data was loaded correctly.One of the things I paid attention to was ensuring that:
+
+- The column names matched correctly
+- Data types were compatible
+- The number of records imported matched the original dataset
+- The information was preserved accurately
+
+Seeing the data appear correctly inside the SQL table was a great confirmation that the preparation steps had been done properly. Now that the dataset is successfully stored in SQL, the next phase will involve exploring the data using SQL queries.
+

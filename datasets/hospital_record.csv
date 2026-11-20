@@ -1,0 +1,673 @@
+﻿Patient_ID,Patient_Name,Gender,Age,Phone_Number,Date_of_visit,Diagnosis,Treatment_plan,Doctor_name,Hospital_department,Insurance_provider,Bill_Amount,Payment_Status
+6892,Jane Mutua,Female,63,254769710708,19/08/2024,Diabetes,Physiotherapy,Dr. Kiplagat,Oncology,Jubilee,28108.15,Partially Paid
+6413,James Atieno,Male,9,254777842854,12/05/2024,Hypertension,Admission,Dr. Atieno,Dermatology,None,27742.06,Paid
+4073,John Kamau,Male,58,254751687602,09/07/2022,Asthma,Admission,Dr. Odhiambo,Dermatology,None,21428.48,Paid
+9754,Anne Mutua,Female,70,254762246222,12/10/2023,Diabetes,Admission,Dr. Wanjiru,Oncology,Jubilee,24371.93,Pending
+6382,Susan Odhiambo,Male,17,254744815324,17/07/2024,Diabetes,Follow-up,Dr. Kamau,General Medicine,AAR Healthcare,49712.43,Partially Paid
+5961,Michael Kiplagat,Male,76,254723182262,03/09/2022,Asthma,Physiotherapy,Dr. Kiplagat,General Medicine,Britam,39893.10,Paid
+5661,Jane Cherono,Female,58,254748203360,29/08/2024,Typhoid,Physiotherapy,Dr. Njeri,Neurology,None,753.46,Pending
+9297,Jane Mugambi,Male,59,254774243007,27/09/2021,Typhoid,Physiotherapy,Dr. Chebet,General Medicine,Jubilee,29099.12,Pending
+7884,Kevin Mwangi,Male,3,254754524346,23/08/2023,Diabetes,Physiotherapy,Dr. Wanjiru,Cardiology,APA Insurance,48658.45,Partially Paid
+8654,John Mugambi,Male,84,254770762891,07/02/2023,Malaria,Surgery,Dr. Mwangi,Dermatology,Jubilee,11724.16,Paid
+4921,Susan Kiplagat,Male,71,254745914763,26/06/2024,Hypertension,Physiotherapy,Dr. Mwangi,Pediatrics,NHIF,7895.16,Paid
+6550,Grace Odhiambo,Male,35,254723985816,16/06/2023,Flu,Surgery,Dr. Kuria,Oncology,APA Insurance,22671.02,Pending
+2227,Mercy Kamau,Male,81,254789365776,14/11/2020,Typhoid,Follow-up,Dr. Obuya,Pediatrics,Britam,30474.27,Partially Paid
+9941,Anne Cherono,Male,61,254765393708,06/05/2023,Asthma,Surgery,Dr. Obuya,Cardiology,AAR Healthcare,38208.94,Partially Paid
+2152,Peter Otieno,Male,33,254751629535,30/03/2021,Hypertension,Surgery,Dr. Mugambi,Pediatrics,AAR Healthcare,39552.32,Partially Paid
+2994,John Njeri,Male,65,254775651131,13/08/2024,Typhoid,Follow-up,Dr. Kamau,Oncology,Britam,14767.66,Partially Paid
+9075,Esther Cherono,Male,73,254764388785,23/01/2024,Malaria,Follow-up,Dr. Ouma,Oncology,Britam,6582.46,Pending
+3590,John Kuria,Male,5,254762467086,17/08/2022,Malaria,Lab Tests,Dr. Odhiambo,Pediatrics,Jubilee,24214.17,Paid
+4229,Esther Mwangi,Female,80,254786447940,27/05/2023,Hypertension,Lab Tests,Dr. Cherono,Oncology,Britam,6919.27,Paid
+3491,James Atieno,Female,49,254713654059,24/12/2020,Malaria,Medication,Dr. Wanjiru,Oncology,Jubilee,46183.94,Partially Paid
+1428,Peter Otieno,Female,76,254723637345,27/05/2024,Allergy,Admission,Dr. Mugambi,Orthopedics,AAR Healthcare,9621.17,Paid
+9656,Esther Kiplagat,Male,24,254753986770,24/05/2021,Flu,Admission,Dr. Njeri,Cardiology,Jubilee,49732.40,Paid
+4473,Peter Mutua,Male,45,254718207817,24/08/2021,Asthma,Lab Tests,Dr. Cherono,Oncology,APA Insurance,25022.14,Paid
+6598,Anne Mutua,Male,47,254799650373,14/11/2020,Flu,Physiotherapy,Dr. Kamau,Cardiology,AAR Healthcare,5466.29,Partially Paid
+1816,Paul Atieno,Male,25,254798356169,05/05/2021,Asthma,Surgery,Dr. Mutua,Neurology,None,36560.89,Pending
+6378,Paul Wanjiru,Female,58,254779187362,04/02/2023,Asthma,Follow-up,Dr. Mutua,Neurology,AAR Healthcare,30156.16,Paid
+4382,Brian Wanjiru,Male,11,254798549526,30/06/2020,Hypertension,Follow-up,Dr. Odhiambo,Orthopedics,None,48384.20,Paid
+3493,David Kuria,Male,10,254789738421,21/04/2023,Allergy,Medication,Dr. Cherono,Orthopedics,NHIF,33785.63,Partially Paid
+6661,David Otieno,Female,43,254738585071,16/09/2022,Diabetes,Physiotherapy,Dr. Mugambi,General Medicine,AAR Healthcare,29305.61,Partially Paid
+6895,Brian Mwangi,Female,59,254752532089,22/09/2022,Typhoid,Admission,Dr. Atieno,Dermatology,APA Insurance,9969.75,Paid
+5436,Michael Kuria,Female,51,254710929663,27/09/2021,Hypertension,Surgery,Dr. Wanjiru,Dermatology,NHIF,38022.44,Partially Paid
+1576,Michael Obuya,Female,83,254712750851,23/11/2021,Malaria,Physiotherapy,Dr. Ouma,Neurology,AAR Healthcare,15178.18,Partially Paid
+1268,Peter Mwangi,Female,78,254766133967,18/07/2022,Hypertension,Surgery,Dr. Odhiambo,Neurology,Britam,34274.46,Paid
+2638,Peter Mutua,Male,45,254783971001,18/02/2025,Diabetes,Medication,Dr. Cherono,General Medicine,NHIF,8349.81,Partially Paid
+8556,Anne Mugambi,Male,79,254713521339,14/12/2020,Malaria,Surgery,Dr. Mwangi,Cardiology,APA Insurance,31349.89,Paid
+5098,Mary Kamau,Female,13,254732168622,28/02/2020,Flu,Physiotherapy,Dr. Kiplagat,Pediatrics,None,26535.91,Partially Paid
+3171,Grace Ouma,Male,47,254736666390,27/10/2022,Asthma,Follow-up,Dr. Mutua,Orthopedics,Jubilee,42870.17,Pending
+4379,Jane Kiplagat,Male,9,254780660088,28/03/2021,Allergy,Follow-up,Dr. Otieno,Dermatology,Britam,25052.77,Pending
+2300,John Mugambi,Female,1,254791827406,04/09/2022,Malaria,Admission,Dr. Otieno,Dermatology,NHIF,23956.63,Pending
+9838,Grace Mugambi,Male,36,254721677891,12/01/2020,Flu,Admission,Dr. Atieno,Dermatology,APA Insurance,10149.54,Partially Paid
+4027,Grace Mutua,Female,54,254747989067,24/11/2022,Asthma,Surgery,Dr. Kuria,Pediatrics,Jubilee,18836.00,Partially Paid
+1335,Mercy Mugambi,Male,80,254796549440,11/10/2023,Hypertension,Follow-up,Dr. Kamau,General Medicine,NHIF,40237.57,Partially Paid
+5258,Anne Otieno,Male,4,254725534344,10/02/2025,Asthma,Medication,Dr. Obuya,Orthopedics,NHIF,47942.51,Partially Paid
+6651,Mary Ouma,Male,68,254747247716,26/06/2023,Flu,Surgery,Dr. Kamau,Cardiology,None,8343.43,Pending
+3182,Peter Chebet,Female,29,254768103444,22/12/2024,Typhoid,Physiotherapy,Dr. Ouma,Dermatology,None,38707.70,Paid
+1558,Esther Kuria,Female,22,254731135832,08/11/2020,Allergy,Surgery,Dr. Ouma,Dermatology,AAR Healthcare,21362.51,Paid
+2818,Anne Atieno,Female,5,254760322901,27/08/2020,Allergy,Medication,Dr. Odhiambo,General Medicine,APA Insurance,39883.67,Paid
+9508,John Ouma,Male,64,254761728874,19/07/2023,Typhoid,Physiotherapy,Dr. Chebet,Oncology,None,1494.75,Pending
+3869,Paul Otieno,Female,4,254765483784,23/10/2021,Asthma,Admission,Dr. Odhiambo,General Medicine,None,47987.70,Pending
+8286,Esther Ouma,Male,66,254796690688,21/10/2021,Asthma,Surgery,Dr. Mwangi,Cardiology,None,44702.49,Paid
+9078,James Otieno,Female,82,254758448561,09/04/2021,Malaria,Physiotherapy,Dr. Chebet,Orthopedics,Britam,22014.54,Paid
+3361,Kevin Kiplagat,Male,80,254749280422,22/10/2024,Asthma,Follow-up,Dr. Cherono,General Medicine,NHIF,14744.45,Partially Paid
+1135,Susan Mugambi,Male,38,254726598341,14/05/2020,Malaria,Admission,Dr. Mugambi,Cardiology,Jubilee,24136.18,Paid
+7717,Peter Obuya,Male,33,254744265303,16/03/2021,Typhoid,Physiotherapy,Dr. Mugambi,Neurology,Jubilee,44719.66,Pending
+9738,James Mutua,Female,77,254794686294,21/01/2025,Diabetes,Physiotherapy,Dr. Kuria,Neurology,APA Insurance,40551.32,Pending
+1832,Brian Chebet,Male,20,254719343372,26/04/2020,Typhoid,Lab Tests,Dr. Mugambi,Orthopedics,AAR Healthcare,47107.04,Partially Paid
+6720,James Chebet,Female,7,254765232691,07/11/2020,Hypertension,Surgery,Dr. Mutua,Cardiology,Britam,7084.66,Partially Paid
+8247,James Kamau,Male,76,254770436363,25/02/2024,Hypertension,Lab Tests,Dr. Kuria,Oncology,Britam,40242.82,Paid
+1330,Kevin Atieno,Female,24,254751345748,06/09/2020,Flu,Medication,Dr. Odhiambo,Orthopedics,Britam,35095.02,Paid
+9392,Jane Kamau,Female,27,254710766498,28/04/2024,Hypertension,Follow-up,Dr. Kamau,Pediatrics,Britam,20012.89,Pending
+5686,Anne Odhiambo,Male,5,254793412841,14/03/2024,Flu,Follow-up,Dr. Kiplagat,Oncology,Jubilee,4059.84,Partially Paid
+4334,Mercy Mugambi,Female,41,254723162866,25/03/2022,Malaria,Medication,Dr. Atieno,Cardiology,Britam,46930.40,Paid
+3018,Brian Otieno,Male,6,254756301589,05/02/2024,Allergy,Follow-up,Dr. Cherono,Neurology,None,43815.29,Pending
+9026,Susan Cherono,Male,35,254772298169,12/05/2022,Diabetes,Medication,Dr. Kamau,General Medicine,AAR Healthcare,6988.67,Paid
+6586,James Cherono,Male,49,254723986317,01/02/2024,Typhoid,Admission,Dr. Cherono,Pediatrics,APA Insurance,44291.95,Pending
+4130,Jane Mutua,Female,41,254730520151,26/11/2022,Hypertension,Lab Tests,Dr. Cherono,Oncology,None,33968.89,Pending
+9452,Michael Odhiambo,Male,7,254762441258,24/02/2022,Typhoid,Lab Tests,Dr. Otieno,Neurology,Britam,37912.89,Paid
+4282,Susan Cherono,Female,4,254743362847,23/07/2020,Flu,Physiotherapy,Dr. Kiplagat,Orthopedics,None,48178.13,Paid
+3980,Anne Wanjiru,Female,73,254712443341,24/08/2022,Diabetes,Follow-up,Dr. Njeri,Pediatrics,Jubilee,8300.49,Paid
+8412,Paul Kamau,Male,56,254791127878,31/03/2022,Hypertension,Surgery,Dr. Otieno,Dermatology,APA Insurance,30244.58,Pending
+7045,Brian Mugambi,Female,38,254757690193,07/03/2022,Flu,Admission,Dr. Mugambi,Cardiology,Jubilee,29313.67,Pending
+4467,James Kiplagat,Female,59,254735376914,11/07/2023,Diabetes,Physiotherapy,Dr. Wanjiru,Neurology,None,27153.88,Pending
+6662,Michael Kamau,Female,77,254724647750,14/11/2021,Hypertension,Admission,Dr. Cherono,Pediatrics,NHIF,40877.52,Pending
+1443,Paul Atieno,Female,25,254783673140,09/09/2024,Asthma,Lab Tests,Dr. Odhiambo,Dermatology,Britam,39279.07,Pending
+5174,Anne Obuya,Male,76,254751374213,11/06/2023,Asthma,Physiotherapy,Dr. Mugambi,Oncology,None,16586.79,Partially Paid
+3232,Michael Chebet,Female,75,254729538070,06/12/2021,Diabetes,Follow-up,Dr. Mugambi,Pediatrics,Jubilee,36101.54,Pending
+5254,Jane Cherono,Male,25,254753321137,24/03/2020,Allergy,Lab Tests,Dr. Kamau,Neurology,Britam,49155.08,Paid
+6594,Esther Odhiambo,Male,57,254716209398,02/07/2024,Flu,Physiotherapy,Dr. Wanjiru,Orthopedics,APA Insurance,48139.21,Paid
+9888,Paul Odhiambo,Male,84,254750586110,12/06/2024,Flu,Surgery,Dr. Kamau,General Medicine,None,37360.52,Paid
+2195,Paul Chebet,Female,47,254729125402,21/03/2023,Diabetes,Follow-up,Dr. Kuria,Cardiology,NHIF,38542.23,Paid
+9403,James Mwangi,Female,69,254711800587,20/03/2023,Asthma,Physiotherapy,Dr. Obuya,Dermatology,Britam,3082.54,Pending
+4731,Grace Atieno,Male,59,254744636008,29/05/2024,Flu,Surgery,Dr. Kamau,Pediatrics,NHIF,26427.30,Pending
+7746,Esther Kamau,Female,80,254732967115,12/08/2021,Typhoid,Lab Tests,Dr. Chebet,Oncology,Jubilee,14316.51,Paid
+9050,Mercy Atieno,Female,24,254726587398,22/06/2020,Asthma,Medication,Dr. Mugambi,Cardiology,Britam,20018.99,Pending
+7521,Brian Kiplagat,Female,76,254796608160,18/03/2025,Flu,Medication,Dr. Otieno,Cardiology,None,5496.75,Paid
+7535,James Mwangi,Female,17,254780785695,05/11/2022,Typhoid,Physiotherapy,Dr. Njeri,Orthopedics,AAR Healthcare,9865.54,Paid
+3273,Jane Mwangi,Male,6,254785974591,06/07/2020,Diabetes,Medication,Dr. Ouma,Pediatrics,AAR Healthcare,12718.53,Paid
+8196,James Odhiambo,Male,8,254716144972,21/08/2021,Diabetes,Physiotherapy,Dr. Cherono,Cardiology,Britam,46854.67,Partially Paid
+3110,Susan Kiplagat,Female,71,254765910056,05/03/2023,Typhoid,Follow-up,Dr. Otieno,Cardiology,APA Insurance,35351.98,Partially Paid
+1367,Susan Cherono,Female,4,254736478993,19/06/2020,Malaria,Admission,Dr. Kiplagat,Oncology,APA Insurance,42747.21,Pending
+3580,Mercy Mutua,Female,14,254774519603,07/08/2024,Malaria,Follow-up,Dr. Obuya,General Medicine,None,12857.62,Paid
+2393,Mary Cherono,Female,10,254791555076,06/01/2023,Flu,Follow-up,Dr. Cherono,Dermatology,NHIF,803.85,Partially Paid
+5260,James Otieno,Male,58,254766448846,06/02/2022,Flu,Lab Tests,Dr. Kuria,Dermatology,Jubilee,13138.08,Partially Paid
+4725,Grace Njeri,Female,35,254741703921,13/05/2020,Hypertension,Physiotherapy,Dr. Atieno,Dermatology,Jubilee,30355.74,Paid
+1945,David Mwangi,Male,9,254754766899,17/10/2022,Allergy,Physiotherapy,Dr. Ouma,Neurology,APA Insurance,4026.46,Paid
+8057,Brian Obuya,Male,55,254791431682,07/11/2020,Allergy,Surgery,Dr. Kuria,Cardiology,None,10632.87,Paid
+7130,Esther Chebet,Female,24,254747208383,30/06/2022,Asthma,Medication,Dr. Mutua,Orthopedics,Jubilee,43475.14,Partially Paid
+8348,Mercy Wanjiru,Male,2,254783959910,14/11/2023,Flu,Admission,Dr. Kamau,Neurology,AAR Healthcare,35087.35,Pending
+8281,Mercy Odhiambo,Female,77,254794305241,25/11/2020,Typhoid,Admission,Dr. Otieno,Dermatology,AAR Healthcare,4532.56,Paid
+8677,Mary Mugambi,Female,13,254795938991,23/01/2021,Malaria,Surgery,Dr. Mugambi,Oncology,APA Insurance,23463.92,Pending
+3325,Jane Kuria,Female,9,254768314678,24/12/2021,Typhoid,Physiotherapy,Dr. Wanjiru,Neurology,NHIF,33927.53,Pending
+5868,Mercy Cherono,Male,34,254769522458,24/07/2021,Flu,Surgery,Dr. Cherono,Neurology,NHIF,31917.21,Pending
+5696,James Njeri,Male,63,254787283180,28/07/2020,Flu,Lab Tests,Dr. Obuya,Orthopedics,AAR Healthcare,37565.30,Paid
+5649,Brian Obuya,Female,72,254794721501,19/05/2020,Hypertension,Medication,Dr. Ouma,Pediatrics,NHIF,46791.60,Partially Paid
+6022,James Ouma,Female,79,254787504415,11/01/2024,Malaria,Follow-up,Dr. Atieno,General Medicine,NHIF,42363.45,Partially Paid
+4086,Mary Obuya,Female,41,254749573542,10/02/2025,Asthma,Physiotherapy,Dr. Mwangi,Cardiology,AAR Healthcare,32409.17,Pending
+4239,Esther Chebet,Female,64,254737828755,24/08/2023,Typhoid,Physiotherapy,Dr. Kiplagat,Cardiology,Jubilee,27970.25,Partially Paid
+2264,Esther Odhiambo,Female,54,254782261763,23/02/2022,Diabetes,Admission,Dr. Mutua,Oncology,NHIF,21999.68,Pending
+5871,Esther Kuria,Male,62,254750251966,02/10/2024,Typhoid,Admission,Dr. Otieno,General Medicine,AAR Healthcare,11653.59,Partially Paid
+6179,Mary Mutua,Female,6,254791986493,28/01/2020,Hypertension,Surgery,Dr. Obuya,Dermatology,None,28212.12,Pending
+1459,James Cherono,Female,9,254735702888,22/11/2021,Hypertension,Admission,Dr. Kuria,Dermatology,AAR Healthcare,26232.27,Paid
+2136,Mary Chebet,Female,47,254723900612,20/08/2022,Diabetes,Physiotherapy,Dr. Mutua,Oncology,None,40700.47,Partially Paid
+5047,Kevin Njeri,Female,9,254751202100,11/05/2021,Hypertension,Lab Tests,Dr. Kuria,Orthopedics,Jubilee,32647.18,Pending
+1699,Grace Njeri,Female,76,254789448631,13/04/2022,Malaria,Physiotherapy,Dr. Mutua,Dermatology,None,36831.57,Paid
+5067,Michael Mutua,Male,63,254789175378,22/11/2022,Asthma,Admission,Dr. Mutua,Orthopedics,Britam,47015.71,Pending
+1022,Anne Obuya,Male,1,254768815279,11/10/2021,Allergy,Physiotherapy,Dr. Cherono,Pediatrics,None,30564.58,Pending
+8502,David Kuria,Female,31,254732705127,19/12/2023,Typhoid,Follow-up,Dr. Ouma,Pediatrics,AAR Healthcare,7010.28,Partially Paid
+6208,David Obuya,Female,45,254774930080,07/08/2020,Allergy,Follow-up,Dr. Otieno,Dermatology,Jubilee,15528.64,Partially Paid
+3902,David Njeri,Male,55,254783623014,26/09/2023,Typhoid,Admission,Dr. Cherono,Cardiology,None,23916.19,Pending
+1902,Grace Mwangi,Male,7,254712372023,18/05/2022,Diabetes,Medication,Dr. Atieno,Pediatrics,NHIF,38423.25,Partially Paid
+1767,Mary Ouma,Male,8,254745305556,24/08/2021,Hypertension,Lab Tests,Dr. Mwangi,Oncology,None,26392.90,Pending
+7870,Grace Mugambi,Male,79,254721398327,22/02/2023,Hypertension,Follow-up,Dr. Mwangi,Oncology,None,14079.72,Pending
+1809,Jane Njeri,Female,1,254745780605,27/08/2022,Hypertension,Medication,Dr. Mwangi,Dermatology,None,26184.43,Paid
+8125,James Cherono,Female,41,254732986385,25/08/2022,Asthma,Admission,Dr. Kuria,General Medicine,None,31504.93,Partially Paid
+7625,Paul Mwangi,Male,44,254798136456,27/02/2024,Malaria,Lab Tests,Dr. Kiplagat,Orthopedics,Britam,44724.26,Partially Paid
+1940,Michael Njeri,Female,75,254748525212,02/07/2021,Hypertension,Physiotherapy,Dr. Otieno,Orthopedics,NHIF,27428.21,Partially Paid
+6017,Esther Njeri,Male,74,254774259388,30/06/2022,Diabetes,Lab Tests,Dr. Atieno,Oncology,NHIF,25837.71,Pending
+1798,Susan Mwangi,Female,76,254787306927,16/02/2024,Diabetes,Medication,Dr. Mugambi,Orthopedics,AAR Healthcare,27913.09,Paid
+2315,John Atieno,Female,22,254781404749,26/11/2022,Asthma,Admission,Dr. Mugambi,General Medicine,Britam,5669.23,Pending
+6663,Michael Chebet,Male,7,254795765823,05/08/2024,Diabetes,Follow-up,Dr. Mutua,General Medicine,NHIF,44607.50,Partially Paid
+7549,Anne Mwangi,Female,63,254790548235,01/01/2023,Hypertension,Lab Tests,Dr. Odhiambo,General Medicine,AAR Healthcare,43154.96,Paid
+5136,Esther Njeri,Female,49,254777821799,18/08/2024,Asthma,Physiotherapy,Dr. Kamau,Neurology,AAR Healthcare,13095.74,Partially Paid
+7570,Michael Odhiambo,Female,78,254730820203,10/02/2020,Hypertension,Medication,Dr. Njeri,Oncology,Jubilee,47548.38,Pending
+1215,Paul Kuria,Male,75,254762725518,28/10/2021,Malaria,Lab Tests,Dr. Obuya,Cardiology,Britam,45169.52,Paid
+7189,Mary Njeri,Male,76,254712248196,23/08/2023,Typhoid,Medication,Dr. Obuya,Pediatrics,AAR Healthcare,7203.54,Paid
+6362,Susan Mugambi,Male,71,254726928903,14/08/2021,Malaria,Lab Tests,Dr. Kuria,Cardiology,Britam,47066.46,Paid
+4298,James Njeri,Male,8,254773105086,20/07/2023,Asthma,Surgery,Dr. Otieno,Oncology,None,43618.29,Partially Paid
+8337,Susan Chebet,Male,36,254720673569,01/08/2020,Hypertension,Admission,Dr. Otieno,Neurology,NHIF,29269.60,Pending
+6365,Kevin Cherono,Male,61,254783628078,19/03/2025,Malaria,Physiotherapy,Dr. Atieno,Cardiology,None,33254.04,Partially Paid
+9071,Brian Odhiambo,Female,56,254792852608,23/12/2023,Typhoid,Surgery,Dr. Obuya,Pediatrics,NHIF,49546.21,Partially Paid
+9179,Michael Obuya,Female,26,254712997118,08/07/2023,Allergy,Lab Tests,Dr. Cherono,Cardiology,AAR Healthcare,11068.98,Pending
+9259,Michael Obuya,Female,37,254797139342,08/05/2024,Hypertension,Medication,Dr. Otieno,Oncology,AAR Healthcare,8217.86,Paid
+5943,Brian Mugambi,Male,61,254715188896,26/04/2021,Allergy,Lab Tests,Dr. Atieno,General Medicine,Britam,17117.20,Paid
+1804,Peter Mwangi,Male,37,254796289967,17/11/2023,Malaria,Surgery,Dr. Mutua,General Medicine,NHIF,43410.96,Partially Paid
+6346,Michael Kuria,Male,38,254751511173,10/03/2025,Malaria,Physiotherapy,Dr. Wanjiru,Neurology,NHIF,48877.88,Paid
+5946,Michael Odhiambo,Female,23,254766362529,01/08/2022,Malaria,Surgery,Dr. Otieno,Cardiology,NHIF,36660.03,Pending
+4931,Grace Kiplagat,Female,78,254749948811,05/07/2023,Flu,Lab Tests,Dr. Mutua,Oncology,None,48314.31,Paid
+4858,Brian Cherono,Female,23,254795597990,29/05/2023,Hypertension,Admission,Dr. Kiplagat,Cardiology,Britam,2019.89,Partially Paid
+3996,James Mugambi,Female,5,254712439236,19/01/2022,Malaria,Medication,Dr. Atieno,Neurology,NHIF,48561.28,Pending
+9579,James Mwangi,Female,50,254724233726,28/02/2021,Allergy,Follow-up,Dr. Kuria,Pediatrics,AAR Healthcare,33518.84,Paid
+8793,Peter Cherono,Male,51,254793847754,19/11/2024,Hypertension,Follow-up,Dr. Otieno,Neurology,AAR Healthcare,8808.98,Pending
+8046,Susan Chebet,Male,38,254760745065,30/04/2021,Asthma,Surgery,Dr. Njeri,Neurology,AAR Healthcare,45309.64,Pending
+1254,Peter Kuria,Female,64,254776461427,03/08/2021,Malaria,Physiotherapy,Dr. Cherono,General Medicine,None,19890.87,Partially Paid
+1882,Grace Mugambi,Male,37,254784432435,20/07/2020,Flu,Lab Tests,Dr. Cherono,Dermatology,AAR Healthcare,24853.42,Pending
+7922,Jane Odhiambo,Male,13,254753896838,09/12/2022,Typhoid,Lab Tests,Dr. Kamau,Neurology,Jubilee,26147.99,Partially Paid
+3793,Kevin Kiplagat,Male,57,254751557617,10/11/2023,Diabetes,Admission,Dr. Chebet,Dermatology,AAR Healthcare,23792.45,Paid
+7132,David Cherono,Female,20,254798638362,03/01/2021,Asthma,Admission,Dr. Odhiambo,Neurology,Britam,47329.78,Partially Paid
+2950,Peter Ouma,Female,1,254730969960,01/02/2023,Asthma,Admission,Dr. Obuya,Dermatology,Britam,8214.13,Pending
+1678,Mercy Kamau,Male,82,254795372946,07/07/2020,Allergy,Lab Tests,Dr. Kiplagat,Cardiology,NHIF,31284.09,Partially Paid
+6916,Susan Kamau,Female,3,254759308271,10/03/2021,Diabetes,Surgery,Dr. Mugambi,Neurology,NHIF,21820.25,Partially Paid
+4017,James Odhiambo,Female,46,254767425142,02/04/2022,Allergy,Admission,Dr. Kiplagat,Orthopedics,Britam,10162.55,Partially Paid
+9896,Brian Odhiambo,Female,3,254736306094,14/02/2021,Typhoid,Admission,Dr. Chebet,Oncology,AAR Healthcare,28135.92,Pending
+3064,Michael Obuya,Male,42,254759723652,11/10/2020,Asthma,Admission,Dr. Mwangi,Cardiology,AAR Healthcare,26365.28,Partially Paid
+5703,Susan Wanjiru,Female,79,254757296922,26/03/2023,Flu,Admission,Dr. Mwangi,Orthopedics,None,1454.30,Paid
+2334,Esther Kamau,Male,60,254722141842,15/08/2021,Allergy,Surgery,Dr. Cherono,Dermatology,None,36292.80,Paid
+8447,Mercy Obuya,Female,6,254772859468,25/07/2024,Typhoid,Follow-up,Dr. Mwangi,Pediatrics,APA Insurance,4631.80,Paid
+5176,Mercy Njeri,Female,52,254725334132,23/10/2022,Typhoid,Lab Tests,Dr. Wanjiru,Oncology,APA Insurance,15256.85,Pending
+6398,John Atieno,Male,42,254789969820,23/02/2024,Malaria,Lab Tests,Dr. Cherono,General Medicine,APA Insurance,5842.76,Paid
+3215,James Ouma,Male,68,254787465149,07/04/2020,Flu,Follow-up,Dr. Njeri,General Medicine,Jubilee,22090.70,Paid
+9388,David Ouma,Female,76,254730271400,23/09/2023,Hypertension,Follow-up,Dr. Obuya,Cardiology,AAR Healthcare,46633.88,Paid
+9373,Jane Chebet,Female,4,254753907232,28/10/2020,Diabetes,Physiotherapy,Dr. Obuya,Cardiology,APA Insurance,27646.88,Partially Paid
+8299,Anne Odhiambo,Male,79,254719388426,15/02/2021,Hypertension,Admission,Dr. Chebet,General Medicine,None,26279.64,Paid
+4943,Kevin Kamau,Female,13,254759698044,29/09/2022,Diabetes,Physiotherapy,Dr. Mutua,Neurology,None,20876.33,Partially Paid
+3407,Anne Obuya,Female,58,254797769593,29/04/2024,Asthma,Surgery,Dr. Kuria,Pediatrics,AAR Healthcare,5751.39,Partially Paid
+2178,Grace Njeri,Female,66,254763672624,24/02/2021,Asthma,Medication,Dr. Otieno,Oncology,None,21710.86,Partially Paid
+8604,John Kamau,Female,74,254792190398,31/05/2022,Allergy,Surgery,Dr. Kamau,Neurology,None,49809.04,Partially Paid
+8179,Paul Njeri,Female,73,254783351598,30/03/2021,Typhoid,Physiotherapy,Dr. Mugambi,General Medicine,AAR Healthcare,43219.49,Paid
+7131,John Mugambi,Female,59,254741880645,20/08/2022,Malaria,Medication,Dr. Cherono,General Medicine,None,24747.10,Partially Paid
+3638,David Chebet,Male,68,254741793412,01/07/2020,Typhoid,Surgery,Dr. Mutua,General Medicine,NHIF,22374.73,Partially Paid
+3445,Kevin Cherono,Female,83,254756385400,18/03/2022,Typhoid,Admission,Dr. Mugambi,Neurology,APA Insurance,43420.82,Pending
+5199,David Ouma,Female,23,254763650768,10/07/2022,Typhoid,Admission,Dr. Mugambi,Dermatology,AAR Healthcare,43306.20,Paid
+2618,Jane Kuria,Male,5,254752412425,10/03/2021,Allergy,Admission,Dr. Njeri,Pediatrics,None,3025.38,Pending
+6694,Susan Wanjiru,Male,30,254715367794,07/03/2020,Malaria,Physiotherapy,Dr. Wanjiru,Dermatology,None,27732.09,Pending
+4515,David Mugambi,Female,65,254733600610,12/01/2022,Flu,Lab Tests,Dr. Ouma,Oncology,AAR Healthcare,43256.54,Paid
+4306,Jane Kamau,Male,58,254755231820,24/06/2020,Flu,Admission,Dr. Kamau,Orthopedics,NHIF,8186.52,Partially Paid
+3562,Peter Odhiambo,Female,18,254738611506,28/01/2024,Allergy,Medication,Dr. Atieno,Cardiology,NHIF,30532.07,Partially Paid
+2789,Susan Wanjiru,Male,57,254758882224,12/10/2024,Hypertension,Physiotherapy,Dr. Mutua,Pediatrics,AAR Healthcare,4097.06,Partially Paid
+7985,Kevin Cherono,Female,5,254762461742,11/10/2023,Allergy,Medication,Dr. Otieno,Dermatology,APA Insurance,24294.36,Paid
+8326,Peter Kiplagat,Male,45,254748701469,03/04/2022,Malaria,Admission,Dr. Njeri,Dermatology,None,40856.27,Partially Paid
+6989,Esther Odhiambo,Female,10,254785161526,04/12/2021,Allergy,Admission,Dr. Mugambi,Oncology,NHIF,2547.75,Partially Paid
+6784,Michael Kiplagat,Female,48,254735712421,16/11/2023,Diabetes,Medication,Dr. Kiplagat,General Medicine,Britam,20024.06,Paid
+9963,Susan Otieno,Female,37,254748842382,11/10/2021,Hypertension,Surgery,Dr. Mugambi,Neurology,None,22054.10,Pending
+4174,Grace Mugambi,Female,79,254718466762,19/08/2021,Hypertension,Lab Tests,Dr. Cherono,Cardiology,Britam,12832.67,Partially Paid
+5505,David Kiplagat,Male,83,254719396169,21/02/2021,Asthma,Follow-up,Dr. Mutua,Dermatology,None,28857.23,Partially Paid
+9208,John Kamau,Female,77,254731239580,11/02/2023,Allergy,Medication,Dr. Njeri,Neurology,Jubilee,19828.12,Pending
+3600,John Obuya,Female,85,254740361819,22/01/2023,Malaria,Physiotherapy,Dr. Otieno,Dermatology,AAR Healthcare,29515.60,Paid
+6606,David Cherono,Male,37,254777711406,15/01/2020,Allergy,Physiotherapy,Dr. Kamau,Pediatrics,NHIF,33844.05,Pending
+7725,Susan Odhiambo,Female,6,254746799326,25/07/2024,Asthma,Admission,Dr. Ouma,Cardiology,AAR Healthcare,20240.85,Paid
+7537,Mercy Ouma,Female,5,254747932933,08/01/2022,Typhoid,Admission,Dr. Cherono,Pediatrics,AAR Healthcare,17655.78,Pending
+7297,Peter Obuya,Male,6,254783562197,03/03/2020,Typhoid,Surgery,Dr. Wanjiru,Cardiology,Britam,4300.36,Pending
+1968,Esther Odhiambo,Male,8,254757478589,07/04/2021,Typhoid,Follow-up,Dr. Kamau,Cardiology,None,41553.63,Partially Paid
+6360,Jane Mugambi,Male,8,254798659760,01/09/2022,Asthma,Admission,Dr. Chebet,General Medicine,APA Insurance,35486.55,Paid
+8421,Anne Odhiambo,Female,64,254767378909,28/12/2024,Allergy,Surgery,Dr. Obuya,Oncology,APA Insurance,38007.29,Partially Paid
+9013,Susan Ouma,Male,79,254785467167,21/01/2025,Asthma,Physiotherapy,Dr. Chebet,General Medicine,Jubilee,37283.86,Pending
+9460,Esther Ouma,Male,80,254737864304,28/02/2024,Flu,Lab Tests,Dr. Odhiambo,Oncology,AAR Healthcare,28871.37,Pending
+1621,James Cherono,Female,44,254722486280,22/08/2020,Asthma,Lab Tests,Dr. Kiplagat,Neurology,None,13222.06,Paid
+3031,Paul Mugambi,Male,30,254766180333,11/08/2023,Typhoid,Admission,Dr. Mwangi,Oncology,AAR Healthcare,23931.60,Partially Paid
+2478,Jane Wanjiru,Male,31,254710652893,19/09/2020,Hypertension,Medication,Dr. Ouma,Neurology,Jubilee,35143.89,Pending
+6868,James Ouma,Male,26,254799175458,16/07/2023,Diabetes,Medication,Dr. Mwangi,Pediatrics,None,46384.14,Pending
+2586,Kevin Kuria,Male,41,254798305851,24/06/2020,Asthma,Admission,Dr. Mutua,Oncology,Britam,39737.09,Paid
+1811,James Ouma,Male,29,254727354202,01/03/2022,Asthma,Follow-up,Dr. Kamau,Cardiology,None,36917.66,Paid
+3474,Jane Mutua,Male,42,254714719466,09/12/2022,Allergy,Admission,Dr. Wanjiru,Orthopedics,None,25443.69,Pending
+8169,Peter Njeri,Male,67,254788938632,13/06/2021,Allergy,Admission,Dr. Kiplagat,Cardiology,None,18560.10,Partially Paid
+7201,Esther Otieno,Male,39,254753103317,15/12/2023,Hypertension,Admission,Dr. Odhiambo,Orthopedics,Jubilee,38828.60,Partially Paid
+5992,Brian Kamau,Female,12,254788942041,07/08/2022,Diabetes,Lab Tests,Dr. Wanjiru,Pediatrics,Jubilee,1178.33,Partially Paid
+7876,Michael Chebet,Female,79,254723685005,01/12/2023,Malaria,Surgery,Dr. Kuria,Dermatology,NHIF,20349.14,Pending
+1651,Mary Cherono,Female,85,254719758995,11/12/2024,Asthma,Physiotherapy,Dr. Njeri,Dermatology,AAR Healthcare,48185.61,Paid
+3809,Paul Chebet,Female,24,254761201385,14/01/2025,Allergy,Surgery,Dr. Kiplagat,Oncology,APA Insurance,34004.44,Partially Paid
+4655,Jane Njeri,Female,72,254746473426,02/12/2020,Allergy,Follow-up,Dr. Obuya,Oncology,Jubilee,6618.19,Paid
+2302,Jane Atieno,Female,55,254741158303,07/02/2024,Hypertension,Physiotherapy,Dr. Mugambi,Orthopedics,NHIF,43358.03,Partially Paid
+3142,Michael Wanjiru,Female,29,254718705249,21/12/2021,Typhoid,Follow-up,Dr. Kuria,Cardiology,APA Insurance,32053.89,Partially Paid
+9637,Susan Mugambi,Female,27,254793990777,10/08/2024,Allergy,Follow-up,Dr. Wanjiru,Neurology,AAR Healthcare,19582.54,Pending
+7450,Grace Chebet,Male,3,254739356829,15/09/2022,Flu,Surgery,Dr. Mutua,Dermatology,APA Insurance,6197.50,Partially Paid
+9743,Peter Chebet,Female,32,254798853883,10/07/2024,Flu,Medication,Dr. Mutua,Neurology,None,36083.17,Paid
+2506,Michael Ouma,Male,36,254748141069,06/02/2022,Typhoid,Lab Tests,Dr. Kamau,Oncology,NHIF,31698.01,Pending
+7864,Esther Mugambi,Female,64,254736157797,10/07/2023,Flu,Medication,Dr. Mwangi,Oncology,NHIF,29324.62,Paid
+8452,Paul Ouma,Male,2,254734656382,01/01/2020,Diabetes,Lab Tests,Dr. Otieno,Pediatrics,APA Insurance,7891.45,Pending
+3949,Mary Otieno,Male,78,254716489758,22/09/2023,Allergy,Follow-up,Dr. Atieno,Cardiology,Jubilee,40167.90,Partially Paid
+9689,Grace Chebet,Female,36,254764607684,08/06/2023,Asthma,Physiotherapy,Dr. Mwangi,Dermatology,AAR Healthcare,45421.74,Partially Paid
+8327,David Odhiambo,Female,57,254764231412,03/09/2022,Hypertension,Medication,Dr. Wanjiru,Pediatrics,Britam,23162.03,Paid
+4997,Kevin Chebet,Male,54,254739763752,01/03/2024,Diabetes,Follow-up,Dr. Njeri,Cardiology,AAR Healthcare,41317.52,Pending
+1589,Susan Cherono,Male,62,254791615258,21/09/2021,Hypertension,Medication,Dr. Odhiambo,Oncology,Jubilee,574.47,Pending
+7219,James Wanjiru,Male,13,254762985471,03/04/2020,Typhoid,Medication,Dr. Atieno,Orthopedics,None,11218.54,Pending
+1541,David Wanjiru,Female,59,254776168669,23/09/2023,Flu,Lab Tests,Dr. Cherono,Dermatology,NHIF,7917.54,Partially Paid
+8581,Anne Otieno,Female,9,254731257380,15/10/2021,Asthma,Physiotherapy,Dr. Odhiambo,Orthopedics,APA Insurance,19050.39,Paid
+5251,Grace Kuria,Male,54,254783111008,19/05/2021,Diabetes,Follow-up,Dr. Obuya,Dermatology,APA Insurance,9797.79,Paid
+2887,Kevin Cherono,Female,1,254757672254,20/04/2022,Malaria,Admission,Dr. Chebet,Orthopedics,None,15181.68,Paid
+3687,Mercy Njeri,Female,85,254778435374,24/06/2022,Diabetes,Admission,Dr. Ouma,General Medicine,NHIF,30370.19,Partially Paid
+2579,Susan Ouma,Female,69,254721437036,19/10/2021,Allergy,Admission,Dr. Mwangi,General Medicine,AAR Healthcare,46073.02,Paid
+3576,James Atieno,Male,77,254725750847,30/08/2024,Hypertension,Lab Tests,Dr. Otieno,Orthopedics,None,22952.39,Pending
+3268,Grace Kamau,Female,40,254726200484,15/03/2021,Flu,Admission,Dr. Mugambi,Dermatology,APA Insurance,10240.02,Paid
+7047,Susan Ouma,Female,18,254715307857,02/11/2021,Hypertension,Physiotherapy,Dr. Cherono,Oncology,None,30973.21,Pending
+2514,Peter Kamau,Female,73,254725972936,26/10/2022,Asthma,Admission,Dr. Wanjiru,Pediatrics,AAR Healthcare,46642.80,Pending
+8587,Paul Cherono,Male,74,254737741548,27/09/2021,Flu,Admission,Dr. Cherono,Cardiology,AAR Healthcare,35011.66,Paid
+6195,Jane Kiplagat,Female,61,254749166731,20/02/2020,Allergy,Surgery,Dr. Mutua,Oncology,None,25825.74,Partially Paid
+9405,Michael Njeri,Female,17,254725278246,23/01/2025,Allergy,Surgery,Dr. Mugambi,General Medicine,APA Insurance,4567.61,Partially Paid
+2704,Mercy Obuya,Female,41,254746276350,10/01/2022,Malaria,Lab Tests,Dr. Ouma,Pediatrics,Jubilee,19970.18,Paid
+4712,Anne Kamau,Female,42,254756947884,04/02/2025,Typhoid,Lab Tests,Dr. Kamau,General Medicine,Britam,4801.57,Partially Paid
+3128,David Cherono,Female,20,254740620781,10/03/2021,Diabetes,Surgery,Dr. Odhiambo,Dermatology,APA Insurance,41961.01,Pending
+8918,Kevin Chebet,Female,70,254747208463,14/04/2024,Malaria,Physiotherapy,Dr. Kuria,Cardiology,Britam,45750.61,Partially Paid
+9991,Grace Ouma,Female,23,254737832146,11/06/2020,Diabetes,Medication,Dr. Mutua,Neurology,Britam,35453.22,Pending
+6253,Grace Odhiambo,Male,35,254736976333,27/09/2024,Allergy,Physiotherapy,Dr. Atieno,Orthopedics,None,26562.87,Partially Paid
+5139,Grace Kuria,Male,75,254740216774,27/07/2021,Typhoid,Admission,Dr. Otieno,Pediatrics,NHIF,3613.13,Pending
+3137,Peter Cherono,Female,4,254753237451,15/12/2021,Allergy,Lab Tests,Dr. Wanjiru,Oncology,None,23985.13,Paid
+9604,Kevin Atieno,Female,57,254777932847,03/02/2024,Asthma,Admission,Dr. Cherono,Neurology,NHIF,46297.54,Pending
+9858,John Wanjiru,Female,13,254719476952,23/08/2021,Flu,Lab Tests,Dr. Kuria,Oncology,Jubilee,43359.79,Partially Paid
+1857,David Atieno,Male,6,254751780656,13/04/2024,Typhoid,Admission,Dr. Cherono,Neurology,Britam,15665.59,Paid
+7740,Susan Chebet,Male,67,254727230021,12/01/2021,Malaria,Surgery,Dr. Wanjiru,Dermatology,None,33484.09,Paid
+3725,Esther Mugambi,Male,80,254727488021,04/04/2023,Hypertension,Medication,Dr. Odhiambo,General Medicine,None,40360.76,Paid
+2599,David Ouma,Female,81,254719389945,28/12/2021,Allergy,Lab Tests,Dr. Kamau,Pediatrics,APA Insurance,20536.18,Pending
+1578,Esther Mutua,Male,7,254758639317,25/11/2024,Allergy,Follow-up,Dr. Atieno,Dermatology,APA Insurance,15743.29,Partially Paid
+4536,Peter Chebet,Male,22,254780969332,13/09/2022,Allergy,Lab Tests,Dr. Obuya,General Medicine,AAR Healthcare,34570.79,Paid
+3179,James Kamau,Male,56,254748685725,08/05/2021,Asthma,Medication,Dr. Kiplagat,Pediatrics,AAR Healthcare,14833.17,Partially Paid
+3606,Susan Kiplagat,Male,39,254761410801,13/01/2025,Hypertension,Lab Tests,Dr. Wanjiru,Pediatrics,Britam,46212.97,Pending
+3637,Brian Mugambi,Male,83,254765143985,28/09/2024,Asthma,Surgery,Dr. Kiplagat,Oncology,NHIF,20117.61,Pending
+5004,Grace Odhiambo,Male,71,254752242424,19/11/2024,Malaria,Surgery,Dr. Cherono,Orthopedics,APA Insurance,42631.46,Paid
+7252,Mercy Njeri,Female,61,254718636830,20/12/2020,Typhoid,Surgery,Dr. Otieno,Orthopedics,Jubilee,37354.10,Paid
+9772,Michael Kuria,Female,36,254778566318,12/06/2020,Allergy,Follow-up,Dr. Obuya,General Medicine,Britam,21162.64,Partially Paid
+7368,Grace Kamau,Female,3,254771666537,14/04/2022,Hypertension,Physiotherapy,Dr. Ouma,Pediatrics,AAR Healthcare,38809.30,Partially Paid
+8029,Mercy Cherono,Female,55,254728996745,30/05/2023,Allergy,Follow-up,Dr. Kiplagat,General Medicine,Britam,31169.24,Partially Paid
+9155,Anne Mwangi,Male,63,254775897919,04/11/2021,Diabetes,Surgery,Dr. Chebet,Neurology,None,29807.23,Partially Paid
+4793,Paul Mutua,Female,11,254746764528,03/01/2021,Asthma,Physiotherapy,Dr. Atieno,Pediatrics,APA Insurance,14162.22,Paid
+8686,Anne Ouma,Male,54,254761369416,09/05/2021,Allergy,Follow-up,Dr. Kuria,Pediatrics,None,40412.73,Paid
+5018,Esther Obuya,Female,30,254783768857,05/09/2021,Diabetes,Surgery,Dr. Obuya,Dermatology,None,11101.75,Pending
+4256,John Mutua,Female,31,254775668302,20/09/2022,Diabetes,Admission,Dr. Ouma,Dermatology,AAR Healthcare,41302.10,Paid
+8809,Anne Obuya,Male,41,254726264915,02/11/2020,Hypertension,Medication,Dr. Kamau,Dermatology,Jubilee,18877.06,Paid
+3705,Esther Odhiambo,Female,56,254758714513,01/12/2024,Diabetes,Surgery,Dr. Kiplagat,Neurology,NHIF,25282.06,Pending
+1759,Kevin Wanjiru,Female,17,254781209445,06/08/2022,Allergy,Medication,Dr. Mugambi,Oncology,NHIF,32906.46,Pending
+4641,Paul Kiplagat,Female,3,254721695089,14/08/2023,Hypertension,Medication,Dr. Njeri,Dermatology,Jubilee,942.89,Paid
+2710,Paul Kamau,Female,71,254754856998,10/09/2021,Malaria,Follow-up,Dr. Kuria,Orthopedics,NHIF,31625.74,Partially Paid
+6745,Grace Kuria,Female,22,254730763832,09/05/2021,Diabetes,Physiotherapy,Dr. Odhiambo,Neurology,Jubilee,39891.92,Paid
+2199,Susan Chebet,Male,31,254790311371,11/06/2022,Diabetes,Medication,Dr. Ouma,Oncology,APA Insurance,15841.46,Pending
+9304,Kevin Cherono,Male,71,254761771060,16/01/2020,Diabetes,Lab Tests,Dr. Mutua,Pediatrics,APA Insurance,29558.98,Pending
+7343,Kevin Odhiambo,Male,45,254718220528,08/08/2024,Typhoid,Follow-up,Dr. Kiplagat,Neurology,NHIF,41665.27,Partially Paid
+7161,Peter Wanjiru,Male,8,254781915374,14/01/2020,Allergy,Follow-up,Dr. Odhiambo,Dermatology,None,14125.73,Partially Paid
+8504,Esther Kiplagat,Female,13,254782915143,28/12/2024,Typhoid,Physiotherapy,Dr. Mugambi,Cardiology,AAR Healthcare,5969.80,Paid
+3239,Brian Mutua,Male,10,254744396743,18/05/2022,Diabetes,Physiotherapy,Dr. Wanjiru,Oncology,None,43501.63,Pending
+5396,Jane Mutua,Male,77,254745974188,17/10/2024,Hypertension,Physiotherapy,Dr. Chebet,Cardiology,Britam,15738.28,Paid
+1730,Mercy Njeri,Female,2,254714454311,06/03/2022,Diabetes,Physiotherapy,Dr. Njeri,Orthopedics,AAR Healthcare,31865.50,Paid
+4185,Paul Njeri,Male,28,254720444685,13/04/2022,Hypertension,Medication,Dr. Mugambi,Neurology,NHIF,28173.44,Partially Paid
+5404,Anne Kuria,Female,67,254747889364,12/02/2025,Asthma,Follow-up,Dr. Ouma,Oncology,Britam,38801.30,Partially Paid
+2702,John Mwangi,Male,10,254726812628,27/08/2023,Typhoid,Lab Tests,Dr. Atieno,Orthopedics,NHIF,38127.41,Partially Paid
+4819,Michael Kamau,Male,50,254717887089,23/06/2023,Flu,Medication,Dr. Obuya,Neurology,Britam,32435.62,Partially Paid
+9353,Grace Mutua,Male,12,254711338006,13/06/2020,Hypertension,Medication,Dr. Otieno,Cardiology,APA Insurance,10321.71,Paid
+7509,James Njeri,Female,17,254749515518,05/02/2023,Diabetes,Medication,Dr. Kamau,Orthopedics,None,24837.52,Paid
+5751,John Otieno,Female,77,254776460069,27/02/2022,Diabetes,Surgery,Dr. Otieno,Neurology,NHIF,18543.00,Paid
+2471,Brian Wanjiru,Female,67,254799154384,27/01/2024,Typhoid,Medication,Dr. Kiplagat,Neurology,None,12319.74,Paid
+2991,Peter Kamau,Male,22,254746445274,03/01/2024,Diabetes,Surgery,Dr. Kiplagat,Pediatrics,AAR Healthcare,28323.70,Partially Paid
+8255,Brian Atieno,Male,39,254746962824,17/01/2021,Typhoid,Lab Tests,Dr. Kamau,General Medicine,APA Insurance,41652.48,Paid
+2611,Anne Obuya,Female,33,254753422115,03/04/2025,Typhoid,Follow-up,Dr. Njeri,Pediatrics,Britam,25004.45,Partially Paid
+6950,Kevin Obuya,Male,25,254720242796,24/08/2021,Hypertension,Lab Tests,Dr. Atieno,Cardiology,Jubilee,8932.76,Partially Paid
+4355,Mercy Chebet,Female,51,254746983331,08/02/2024,Typhoid,Admission,Dr. Wanjiru,Dermatology,APA Insurance,34461.63,Pending
+7507,Grace Kiplagat,Female,69,254768127885,18/03/2021,Flu,Admission,Dr. Odhiambo,Oncology,None,14853.84,Pending
+4910,Grace Kiplagat,Female,50,254721684144,04/05/2021,Allergy,Lab Tests,Dr. Wanjiru,Neurology,None,38390.04,Partially Paid
+5882,Grace Obuya,Male,4,254724320034,21/09/2022,Hypertension,Follow-up,Dr. Mwangi,Dermatology,NHIF,17101.74,Paid
+6630,Paul Atieno,Female,81,254728820368,08/09/2021,Diabetes,Lab Tests,Dr. Atieno,Cardiology,AAR Healthcare,27186.04,Paid
+6666,Mercy Mugambi,Male,73,254723824591,28/03/2023,Diabetes,Physiotherapy,Dr. Mwangi,Oncology,None,19814.42,Paid
+1378,Mary Njeri,Male,7,254745758206,29/01/2020,Asthma,Medication,Dr. Kuria,Dermatology,Jubilee,44574.49,Paid
+1871,Kevin Kuria,Male,9,254770814285,13/02/2022,Malaria,Lab Tests,Dr. Kuria,Pediatrics,NHIF,7307.13,Paid
+7305,Michael Njeri,Female,38,254783751712,24/09/2020,Malaria,Physiotherapy,Dr. Obuya,Cardiology,AAR Healthcare,25885.91,Pending
+8533,James Atieno,Male,19,254790689895,05/05/2024,Asthma,Admission,Dr. Kamau,Oncology,NHIF,1729.44,Partially Paid
+2002,Anne Mutua,Female,31,254720223392,28/02/2023,Asthma,Medication,Dr. Mugambi,Orthopedics,APA Insurance,4747.81,Paid
+3601,John Kuria,Female,63,254726555319,12/03/2021,Diabetes,Physiotherapy,Dr. Mugambi,Neurology,APA Insurance,24954.15,Pending
+5918,Kevin Ouma,Male,53,254758876695,26/12/2022,Hypertension,Admission,Dr. Mugambi,Neurology,Jubilee,37213.38,Partially Paid
+1331,John Kuria,Male,28,254728502230,01/02/2020,Hypertension,Admission,Dr. Odhiambo,Cardiology,Jubilee,22977.01,Paid
+8997,Grace Wanjiru,Male,75,254729824721,14/08/2022,Malaria,Follow-up,Dr. Kiplagat,Oncology,NHIF,46822.47,Partially Paid
+7362,Grace Ouma,Female,42,254766148369,28/03/2022,Asthma,Admission,Dr. Mugambi,Cardiology,APA Insurance,49720.43,Paid
+4014,Brian Mutua,Male,37,254712652869,09/02/2021,Diabetes,Lab Tests,Dr. Kuria,Dermatology,AAR Healthcare,29931.27,Paid
+1309,Mary Cherono,Female,68,254777718935,11/03/2022,Asthma,Surgery,Dr. Atieno,Oncology,APA Insurance,8440.02,Pending
+9067,Grace Mugambi,Male,71,254766581668,13/03/2022,Malaria,Lab Tests,Dr. Kamau,Dermatology,Jubilee,6424.19,Pending
+7906,Anne Otieno,Male,67,254776364955,13/10/2021,Typhoid,Admission,Dr. Kiplagat,Neurology,APA Insurance,30966.63,Pending
+1301,Peter Atieno,Female,82,254779772945,10/08/2022,Allergy,Lab Tests,Dr. Kuria,Neurology,Jubilee,39167.75,Paid
+2155,Michael Mutua,Male,17,254772145331,31/03/2023,Allergy,Admission,Dr. Chebet,General Medicine,Jubilee,6682.20,Paid
+1093,Peter Atieno,Male,8,254795346861,05/02/2023,Asthma,Admission,Dr. Cherono,Pediatrics,NHIF,6230.45,Paid
+7300,John Cherono,Female,14,254766338116,09/11/2023,Allergy,Lab Tests,Dr. Obuya,Orthopedics,APA Insurance,47191.66,Partially Paid
+8511,Mercy Njeri,Male,5,254767483042,04/04/2023,Malaria,Physiotherapy,Dr. Obuya,Cardiology,APA Insurance,21095.74,Pending
+9556,Michael Mwangi,Male,80,254732318789,12/08/2020,Typhoid,Follow-up,Dr. Kiplagat,Pediatrics,AAR Healthcare,8803.49,Paid
+3314,Anne Odhiambo,Female,70,254792444172,10/09/2024,Diabetes,Follow-up,Dr. Njeri,Pediatrics,AAR Healthcare,43836.97,Partially Paid
+5597,Mary Wanjiru,Male,23,254766928285,22/02/2021,Flu,Admission,Dr. Mwangi,Pediatrics,NHIF,7970.71,Pending
+9988,Mary Chebet,Female,46,254711964820,08/02/2020,Asthma,Admission,Dr. Mwangi,Cardiology,Jubilee,8807.28,Partially Paid
+6217,Mary Kuria,Male,10,254740982417,27/10/2024,Flu,Physiotherapy,Dr. Wanjiru,Pediatrics,None,23211.60,Partially Paid
+8019,Peter Cherono,Female,61,254790952871,24/05/2021,Hypertension,Admission,Dr. Kiplagat,Pediatrics,AAR Healthcare,15568.78,Pending
+8090,Mary Ouma,Female,33,254765953975,11/01/2025,Asthma,Follow-up,Dr. Otieno,General Medicine,NHIF,35430.98,Partially Paid
+9509,Michael Obuya,Female,74,254779430955,06/01/2022,Typhoid,Lab Tests,Dr. Cherono,Orthopedics,APA Insurance,28392.94,Paid
+2695,Mary Kuria,Male,43,254732112361,20/10/2022,Flu,Medication,Dr. Kiplagat,Dermatology,None,9680.02,Paid
+8290,Mary Wanjiru,Male,20,254794765447,25/04/2023,Hypertension,Physiotherapy,Dr. Mutua,Orthopedics,AAR Healthcare,7443.15,Partially Paid
+9771,Peter Wanjiru,Female,51,254743685665,20/02/2020,Typhoid,Surgery,Dr. Cherono,Pediatrics,AAR Healthcare,15092.11,Partially Paid
+2891,Kevin Kuria,Female,42,254798556432,17/12/2022,Hypertension,Medication,Dr. Njeri,Neurology,Britam,46838.31,Partially Paid
+8128,John Mwangi,Male,65,254736617936,28/08/2021,Diabetes,Admission,Dr. Mutua,Cardiology,None,37704.63,Partially Paid
+8965,Anne Mugambi,Female,48,254788712049,07/06/2022,Typhoid,Follow-up,Dr. Njeri,General Medicine,Britam,24613.53,Partially Paid
+7945,David Atieno,Female,63,254721208647,29/10/2022,Asthma,Medication,Dr. Kamau,Cardiology,AAR Healthcare,16445.21,Partially Paid
+2968,Peter Cherono,Female,4,254759384706,28/05/2020,Diabetes,Lab Tests,Dr. Wanjiru,Oncology,AAR Healthcare,21479.10,Pending
+3312,Esther Atieno,Female,23,254736346955,16/12/2022,Diabetes,Medication,Dr. Kiplagat,Dermatology,Britam,47993.34,Paid
+7032,James Otieno,Female,14,254789177677,18/06/2022,Diabetes,Surgery,Dr. Odhiambo,Pediatrics,None,38091.77,Paid
+5310,David Otieno,Male,77,254789119387,21/09/2024,Hypertension,Surgery,Dr. Otieno,Oncology,None,26869.07,Partially Paid
+4501,James Atieno,Male,73,254781232104,22/09/2024,Flu,Surgery,Dr. Atieno,Oncology,Jubilee,46371.92,Partially Paid
+7358,Jane Cherono,Female,48,254741926731,09/09/2024,Malaria,Medication,Dr. Odhiambo,Pediatrics,Jubilee,44808.27,Partially Paid
+4245,Susan Kuria,Male,81,254774920475,28/10/2024,Hypertension,Follow-up,Dr. Obuya,Cardiology,None,22940.16,Pending
+2218,Anne Mugambi,Male,6,254719367867,22/07/2024,Diabetes,Medication,Dr. Odhiambo,Cardiology,AAR Healthcare,44227.05,Paid
+1665,Anne Atieno,Male,9,254735464786,20/06/2020,Flu,Physiotherapy,Dr. Chebet,General Medicine,APA Insurance,15137.48,Paid
+1210,Jane Kiplagat,Male,12,254712976600,29/01/2022,Allergy,Medication,Dr. Obuya,Neurology,Britam,12236.71,Partially Paid
+9542,Susan Cherono,Male,60,254731644091,09/03/2025,Typhoid,Follow-up,Dr. Cherono,Pediatrics,Britam,13409.77,Partially Paid
+5736,Paul Kiplagat,Female,28,254760468094,06/01/2023,Typhoid,Follow-up,Dr. Cherono,Orthopedics,NHIF,42198.50,Partially Paid
+4216,Jane Obuya,Male,28,254724787188,06/06/2024,Allergy,Follow-up,Dr. Otieno,Oncology,NHIF,47636.18,Pending
+1303,Peter Kuria,Female,19,254752186164,07/01/2021,Allergy,Follow-up,Dr. Mwangi,Neurology,Jubilee,32102.80,Paid
+7402,Mary Wanjiru,Male,15,254794679893,30/06/2023,Flu,Follow-up,Dr. Obuya,Oncology,Jubilee,3639.39,Pending
+7185,Kevin Atieno,Male,71,254763825948,24/06/2021,Malaria,Physiotherapy,Dr. Kamau,Orthopedics,NHIF,20117.50,Partially Paid
+9846,Brian Kuria,Male,81,254780103461,08/10/2021,Flu,Lab Tests,Dr. Mutua,Dermatology,Britam,9447.93,Pending
+5182,Susan Odhiambo,Female,76,254748583882,03/07/2022,Asthma,Admission,Dr. Atieno,Cardiology,NHIF,27795.60,Partially Paid
+9497,Esther Kamau,Male,18,254739618596,16/08/2024,Typhoid,Medication,Dr. Kiplagat,Orthopedics,NHIF,47643.23,Partially Paid
+3415,Anne Atieno,Female,55,254741502992,20/02/2022,Typhoid,Surgery,Dr. Kuria,Pediatrics,APA Insurance,42510.22,Partially Paid
+3926,Anne Njeri,Male,17,254763302546,27/03/2025,Asthma,Medication,Dr. Wanjiru,Neurology,Jubilee,11341.67,Partially Paid
+6635,Brian Obuya,Female,79,254770829871,20/03/2024,Typhoid,Admission,Dr. Atieno,Oncology,None,20953.54,Pending
+2817,Anne Mwangi,Female,65,254729258011,24/03/2021,Asthma,Surgery,Dr. Njeri,Cardiology,AAR Healthcare,23614.25,Pending
+3478,Susan Otieno,Male,36,254782428011,03/08/2024,Asthma,Lab Tests,Dr. Wanjiru,Dermatology,APA Insurance,12013.03,Pending
+5503,Mercy Kuria,Male,38,254782538497,30/11/2022,Hypertension,Surgery,Dr. Kiplagat,Pediatrics,None,7979.36,Pending
+3420,John Mugambi,Male,62,254743230624,16/07/2020,Typhoid,Physiotherapy,Dr. Mugambi,General Medicine,None,8877.37,Paid
+1875,Paul Kuria,Male,48,254715633955,29/06/2024,Asthma,Follow-up,Dr. Chebet,Cardiology,NHIF,36660.71,Partially Paid
+4752,James Kamau,Female,4,254774975319,21/11/2022,Malaria,Medication,Dr. Kamau,Pediatrics,Jubilee,14093.00,Pending
+6625,Mary Otieno,Male,5,254710107596,04/07/2021,Asthma,Follow-up,Dr. Chebet,Orthopedics,NHIF,24984.78,Partially Paid
+3246,Jane Kiplagat,Male,55,254767353488,14/08/2020,Hypertension,Follow-up,Dr. Wanjiru,Dermatology,Britam,49717.94,Paid
+5759,Brian Mugambi,Female,80,254733462718,08/05/2022,Flu,Surgery,Dr. Ouma,Pediatrics,NHIF,34823.94,Partially Paid
+5401,Mary Kamau,Male,66,254799365696,27/01/2023,Flu,Surgery,Dr. Njeri,General Medicine,Jubilee,5203.63,Paid
+9101,Michael Kamau,Female,18,254711269851,15/02/2022,Malaria,Follow-up,Dr. Odhiambo,General Medicine,NHIF,49226.77,Paid
+6973,John Odhiambo,Female,32,254770756926,14/08/2021,Hypertension,Physiotherapy,Dr. Otieno,Orthopedics,Britam,28295.28,Paid
+4673,Paul Njeri,Male,32,254745338340,15/04/2021,Hypertension,Physiotherapy,Dr. Cherono,General Medicine,Jubilee,40239.41,Pending
+2047,Peter Ouma,Female,63,254727335414,18/11/2023,Hypertension,Physiotherapy,Dr. Wanjiru,Cardiology,Britam,1217.49,Pending
+7476,Peter Obuya,Female,4,254719724369,15/10/2022,Diabetes,Follow-up,Dr. Ouma,Orthopedics,Jubilee,23115.66,Partially Paid
+6006,John Atieno,Male,27,254771889533,14/11/2022,Diabetes,Admission,Dr. Kuria,General Medicine,None,31503.45,Partially Paid
+7530,Peter Obuya,Female,18,254743119815,08/02/2025,Hypertension,Follow-up,Dr. Kuria,Pediatrics,AAR Healthcare,34317.93,Pending
+3959,Mercy Cherono,Female,54,254745772179,08/10/2023,Typhoid,Medication,Dr. Otieno,Pediatrics,AAR Healthcare,6716.67,Pending
+9732,Mercy Atieno,Male,71,254799237172,01/10/2021,Asthma,Follow-up,Dr. Ouma,Pediatrics,Britam,18832.41,Pending
+7016,Brian Mugambi,Female,2,254760872994,10/04/2021,Allergy,Follow-up,Dr. Kiplagat,Orthopedics,AAR Healthcare,5904.29,Paid
+9770,David Mutua,Male,1,254788134692,25/11/2024,Asthma,Follow-up,Dr. Odhiambo,Orthopedics,NHIF,22651.73,Paid
+9647,Paul Kamau,Male,61,254781407885,23/10/2020,Hypertension,Surgery,Dr. Mwangi,Oncology,Britam,30939.27,Partially Paid
+8075,Brian Chebet,Female,30,254772523076,15/11/2020,Diabetes,Physiotherapy,Dr. Cherono,General Medicine,None,32520.35,Pending
+1464,James Cherono,Female,22,254742406838,26/11/2024,Flu,Admission,Dr. Wanjiru,Oncology,NHIF,24580.64,Pending
+5952,Susan Kamau,Female,8,254785333510,26/12/2024,Asthma,Medication,Dr. Kiplagat,Pediatrics,AAR Healthcare,22414.02,Pending
+1916,Paul Obuya,Male,32,254764385126,19/06/2023,Hypertension,Medication,Dr. Cherono,Oncology,Jubilee,48654.08,Paid
+5195,David Obuya,Male,51,254780292894,12/05/2020,Allergy,Admission,Dr. Otieno,Dermatology,APA Insurance,12722.32,Pending
+1248,Jane Mugambi,Male,68,254743633732,10/02/2021,Hypertension,Lab Tests,Dr. Kuria,Oncology,AAR Healthcare,21061.88,Partially Paid
+6473,Kevin Chebet,Female,3,254739759561,03/08/2024,Diabetes,Medication,Dr. Obuya,Cardiology,AAR Healthcare,29335.90,Paid
+3517,Paul Atieno,Female,22,254784702727,29/05/2020,Diabetes,Lab Tests,Dr. Odhiambo,Neurology,Jubilee,43175.16,Pending
+8958,Esther Kamau,Male,26,254764152300,04/04/2021,Allergy,Physiotherapy,Dr. Njeri,Neurology,Jubilee,22430.17,Partially Paid
+5410,Jane Mutua,Male,51,254763996326,10/09/2023,Hypertension,Lab Tests,Dr. Njeri,Cardiology,NHIF,47777.79,Partially Paid
+2685,Esther Cherono,Female,26,254788172135,27/05/2024,Hypertension,Admission,Dr. Odhiambo,Orthopedics,None,33820.36,Pending
+9726,Mercy Mugambi,Male,2,254714385406,06/09/2020,Hypertension,Lab Tests,Dr. Odhiambo,Orthopedics,Britam,6126.29,Pending
+4836,Susan Wanjiru,Male,3,254757452223,27/08/2024,Typhoid,Medication,Dr. Ouma,Orthopedics,NHIF,15862.17,Pending
+7827,Susan Chebet,Female,4,254771347719,13/10/2023,Allergy,Medication,Dr. Mutua,Oncology,None,42705.71,Partially Paid
+7061,Mary Kamau,Male,40,254747946751,20/11/2022,Diabetes,Surgery,Dr. Mugambi,General Medicine,AAR Healthcare,10192.12,Paid
+8094,Michael Kuria,Male,83,254733796505,19/03/2025,Typhoid,Follow-up,Dr. Atieno,Dermatology,Jubilee,44357.12,Partially Paid
+8262,Anne Chebet,Male,19,254784991904,06/02/2021,Allergy,Physiotherapy,Dr. Njeri,Dermatology,Britam,40832.43,Pending
+5738,Kevin Cherono,Male,68,254718261906,04/05/2024,Allergy,Follow-up,Dr. Kuria,Dermatology,Jubilee,25397.07,Pending
+7334,John Njeri,Female,34,254792687036,22/04/2024,Allergy,Admission,Dr. Njeri,General Medicine,APA Insurance,15444.39,Partially Paid
+1782,Grace Odhiambo,Female,47,254790532335,12/07/2023,Allergy,Physiotherapy,Dr. Njeri,Dermatology,AAR Healthcare,1975.60,Paid
+6949,James Mutua,Male,39,254715207823,06/03/2024,Flu,Physiotherapy,Dr. Otieno,Cardiology,None,38830.57,Paid
+3384,Susan Cherono,Male,9,254793183091,28/04/2022,Typhoid,Follow-up,Dr. Obuya,Pediatrics,None,39277.78,Partially Paid
+7843,Susan Mutua,Female,65,254758171736,30/11/2023,Hypertension,Surgery,Dr. Mwangi,General Medicine,Britam,7785.94,Paid
+3901,Grace Kamau,Male,64,254799139670,10/08/2024,Malaria,Follow-up,Dr. Cherono,Neurology,Britam,29991.09,Paid
+3090,Susan Kiplagat,Female,65,254796323890,09/10/2021,Allergy,Follow-up,Dr. Mugambi,Oncology,Jubilee,49125.39,Partially Paid
+6088,Kevin Cherono,Male,10,254744689608,04/08/2020,Allergy,Follow-up,Dr. Odhiambo,General Medicine,None,39820.27,Pending
+9841,Peter Kuria,Male,6,254768888658,21/10/2022,Flu,Medication,Dr. Kuria,Neurology,APA Insurance,31177.69,Pending
+3883,Susan Chebet,Male,3,254729298385,30/09/2022,Diabetes,Physiotherapy,Dr. Ouma,Dermatology,None,35993.75,Paid
+7809,Mary Mutua,Male,83,254737865507,13/02/2021,Allergy,Lab Tests,Dr. Obuya,General Medicine,AAR Healthcare,3910.80,Paid
+6645,Grace Kamau,Female,57,254763605450,31/07/2021,Malaria,Follow-up,Dr. Kuria,Neurology,NHIF,45515.90,Pending
+1458,Susan Chebet,Female,58,254744181900,08/04/2024,Malaria,Physiotherapy,Dr. Mwangi,Cardiology,None,4034.62,Paid
+3895,Esther Odhiambo,Female,70,254741766941,21/07/2022,Diabetes,Surgery,Dr. Mugambi,Cardiology,None,18229.81,Pending
+9653,David Mutua,Male,8,254761744717,01/11/2022,Flu,Medication,Dr. Ouma,Pediatrics,APA Insurance,3881.22,Paid
+3755,Peter Kuria,Female,70,254774135676,17/07/2020,Malaria,Admission,Dr. Mugambi,General Medicine,AAR Healthcare,15767.86,Partially Paid
+6940,Susan Chebet,Male,72,254796757917,01/07/2023,Diabetes,Physiotherapy,Dr. Wanjiru,General Medicine,None,18255.39,Paid
+8761,Michael Cherono,Male,50,254756139940,11/06/2022,Flu,Surgery,Dr. Mwangi,General Medicine,Britam,712.46,Pending
+8900,John Kamau,Female,82,254799645827,19/12/2024,Hypertension,Admission,Dr. Otieno,Pediatrics,Britam,15962.59,Paid
+6050,Anne Njeri,Female,56,254782360484,02/04/2024,Malaria,Medication,Dr. Wanjiru,Pediatrics,NHIF,45253.64,Pending
+5547,David Otieno,Male,15,254773874977,30/12/2024,Diabetes,Medication,Dr. Chebet,General Medicine,None,10195.09,Pending
+9575,Brian Obuya,Male,63,254775496579,22/10/2024,Allergy,Admission,Dr. Ouma,General Medicine,APA Insurance,45405.77,Pending
+1278,Michael Kiplagat,Female,73,254744915405,14/07/2023,Hypertension,Medication,Dr. Wanjiru,Orthopedics,Britam,16036.37,Partially Paid
+3212,James Chebet,Female,28,254749212795,11/02/2023,Hypertension,Surgery,Dr. Obuya,Pediatrics,Britam,22215.20,Partially Paid
+1750,Mary Kamau,Male,12,254717717397,02/01/2023,Asthma,Surgery,Dr. Otieno,Cardiology,NHIF,46683.98,Partially Paid
+1460,Esther Cherono,Male,24,254732709080,31/07/2021,Typhoid,Medication,Dr. Kuria,Neurology,Britam,13950.48,Partially Paid
+3094,Brian Chebet,Male,82,254721753921,13/11/2020,Typhoid,Admission,Dr. Atieno,Neurology,None,1168.53,Partially Paid
+5076,Kevin Odhiambo,Female,2,254721695402,20/01/2021,Asthma,Physiotherapy,Dr. Mwangi,General Medicine,NHIF,47912.84,Pending
+3352,John Njeri,Female,45,254753512152,13/12/2021,Allergy,Surgery,Dr. Kuria,Neurology,APA Insurance,39809.14,Paid
+4657,Susan Mwangi,Female,47,254784755620,06/04/2020,Diabetes,Surgery,Dr. Mutua,Orthopedics,Britam,27707.54,Pending
+2118,James Cherono,Female,43,254740763659,20/06/2021,Flu,Medication,Dr. Njeri,Dermatology,NHIF,4989.44,Pending
+3174,James Otieno,Male,37,254724827593,23/04/2024,Typhoid,Physiotherapy,Dr. Otieno,General Medicine,NHIF,28641.92,Pending
+6430,Esther Cherono,Male,17,254717616325,20/04/2024,Flu,Physiotherapy,Dr. Mutua,Orthopedics,None,2708.91,Paid
+4169,Mary Kuria,Male,8,254749126155,12/05/2020,Hypertension,Lab Tests,Dr. Kamau,General Medicine,NHIF,12772.93,Paid
+9074,Kevin Mwangi,Female,3,254729620197,07/03/2021,Asthma,Physiotherapy,Dr. Ouma,General Medicine,Britam,17998.31,Pending
+2771,David Chebet,Female,36,254737790619,17/05/2021,Malaria,Admission,Dr. Mugambi,Cardiology,NHIF,9672.50,Paid
+6515,Kevin Otieno,Female,60,254750596025,02/06/2024,Typhoid,Surgery,Dr. Cherono,Dermatology,AAR Healthcare,48227.94,Pending
+7111,Mary Otieno,Female,22,254732515787,27/01/2023,Allergy,Medication,Dr. Odhiambo,Neurology,Jubilee,25409.34,Partially Paid
+2384,David Cherono,Female,21,254738267489,06/11/2021,Typhoid,Lab Tests,Dr. Njeri,Neurology,APA Insurance,28699.64,Partially Paid
+1077,Mercy Wanjiru,Female,48,254762102785,16/02/2021,Asthma,Follow-up,Dr. Chebet,Neurology,APA Insurance,13644.53,Partially Paid
+7916,Brian Kamau,Female,85,254712289152,19/09/2023,Hypertension,Medication,Dr. Njeri,Pediatrics,AAR Healthcare,22871.79,Paid
+8675,Jane Kuria,Male,85,254753819308,20/08/2023,Diabetes,Follow-up,Dr. Chebet,Orthopedics,APA Insurance,43175.06,Paid
+2258,Peter Chebet,Male,80,254789809970,13/01/2024,Asthma,Lab Tests,Dr. Mutua,Cardiology,NHIF,5270.03,Pending
+6904,Brian Otieno,Female,24,254741775252,20/03/2024,Typhoid,Admission,Dr. Kamau,Cardiology,AAR Healthcare,24520.68,Pending
+1352,James Atieno,Female,37,254758789058,04/04/2024,Asthma,Admission,Dr. Kiplagat,Neurology,Jubilee,38072.69,Partially Paid
+5606,Mary Kiplagat,Male,38,254742457309,02/06/2022,Asthma,Surgery,Dr. Kiplagat,Pediatrics,APA Insurance,7685.00,Partially Paid
+2368,David Kuria,Male,53,254755222300,13/03/2024,Diabetes,Follow-up,Dr. Kiplagat,General Medicine,None,5509.50,Paid
+8197,Anne Kiplagat,Female,71,254761330943,30/05/2022,Asthma,Follow-up,Dr. Otieno,Cardiology,NHIF,38357.95,Partially Paid
+7978,Michael Kamau,Female,75,254763172131,13/02/2020,Flu,Follow-up,Dr. Atieno,Neurology,AAR Healthcare,16655.03,Paid
+6590,Grace Wanjiru,Female,13,254710196527,25/02/2024,Allergy,Medication,Dr. Obuya,General Medicine,NHIF,45614.02,Paid
+4895,Anne Obuya,Male,28,254729273234,31/03/2020,Allergy,Surgery,Dr. Mutua,Pediatrics,APA Insurance,6542.17,Pending
+9628,Susan Chebet,Male,66,254740994046,17/11/2024,Asthma,Surgery,Dr. Atieno,Dermatology,None,4817.20,Pending
+2661,James Mwangi,Female,1,254710538764,15/04/2020,Asthma,Lab Tests,Dr. Obuya,Cardiology,Britam,48078.34,Pending
+5163,Jane Mwangi,Male,12,254716430650,15/04/2020,Typhoid,Lab Tests,Dr. Chebet,General Medicine,Britam,32555.14,Partially Paid
+4881,Michael Wanjiru,Male,70,254797508101,21/03/2022,Hypertension,Follow-up,Dr. Njeri,Pediatrics,APA Insurance,34457.76,Pending
+6221,Mercy Chebet,Male,1,254724453645,18/03/2023,Flu,Follow-up,Dr. Cherono,Neurology,None,11115.49,Pending
+3999,Esther Kuria,Male,55,254732857319,10/04/2021,Typhoid,Surgery,Dr. Mwangi,Oncology,Britam,49739.13,Pending
+1424,Jane Chebet,Male,40,254768864775,05/03/2022,Hypertension,Surgery,Dr. Otieno,Cardiology,APA Insurance,46163.52,Pending
+8234,Jane Mugambi,Male,6,254764834218,03/03/2024,Typhoid,Follow-up,Dr. Atieno,Neurology,Jubilee,9234.11,Pending
+2549,Brian Mugambi,Male,14,254721675561,22/05/2021,Typhoid,Lab Tests,Dr. Kamau,General Medicine,NHIF,44379.34,Pending
+1327,David Mwangi,Male,38,254721867994,26/08/2020,Allergy,Admission,Dr. Kuria,Oncology,None,16059.71,Paid
+7576,Mercy Njeri,Female,26,254711400419,25/11/2023,Allergy,Lab Tests,Dr. Wanjiru,Pediatrics,AAR Healthcare,35032.77,Pending
+1770,Paul Mutua,Female,50,254792722924,23/08/2022,Asthma,Medication,Dr. Cherono,Pediatrics,AAR Healthcare,15263.67,Pending
+7984,Michael Wanjiru,Male,68,254722196628,19/01/2023,Malaria,Admission,Dr. Ouma,Oncology,APA Insurance,26912.72,Partially Paid
+3220,Paul Kuria,Male,79,254774449692,17/03/2025,Asthma,Medication,Dr. Mwangi,Cardiology,AAR Healthcare,2084.97,Partially Paid
+1746,Grace Kiplagat,Female,81,254798769942,11/05/2021,Allergy,Medication,Dr. Obuya,Cardiology,Jubilee,46281.07,Paid
+7033,Michael Atieno,Female,60,254772319178,12/06/2020,Typhoid,Follow-up,Dr. Kuria,General Medicine,AAR Healthcare,29821.25,Pending
+7431,Peter Mwangi,Male,53,254764883076,13/09/2024,Malaria,Lab Tests,Dr. Odhiambo,Pediatrics,Jubilee,10266.15,Partially Paid
+2424,Mercy Chebet,Female,17,254733699463,01/10/2020,Asthma,Admission,Dr. Mugambi,Cardiology,None,36598.56,Partially Paid
+2912,Brian Cherono,Female,60,254777366397,13/10/2021,Hypertension,Physiotherapy,Dr. Mutua,Oncology,None,29721.42,Partially Paid
+3550,Brian Njeri,Male,69,254794110616,01/12/2024,Asthma,Physiotherapy,Dr. Kamau,Cardiology,APA Insurance,19521.32,Pending
+7648,Anne Kamau,Female,39,254786416973,04/01/2021,Malaria,Physiotherapy,Dr. Atieno,Oncology,Jubilee,20628.74,Partially Paid
+7005,Kevin Odhiambo,Male,3,254799479258,16/12/2022,Diabetes,Follow-up,Dr. Atieno,Cardiology,APA Insurance,45599.67,Pending
+6526,Kevin Atieno,Female,19,254759892933,29/11/2021,Malaria,Medication,Dr. Atieno,Neurology,NHIF,18046.31,Partially Paid
+2285,Brian Kiplagat,Female,77,254755182396,24/09/2023,Typhoid,Surgery,Dr. Kamau,Neurology,AAR Healthcare,45224.59,Pending
+4783,Peter Atieno,Male,8,254738269098,19/01/2021,Asthma,Admission,Dr. Mutua,Cardiology,APA Insurance,24216.44,Paid
+7832,Susan Odhiambo,Male,48,254741511950,17/10/2021,Flu,Admission,Dr. Ouma,Dermatology,AAR Healthcare,16545.08,Partially Paid
+7786,Susan Mugambi,Male,34,254724529314,25/03/2025,Typhoid,Follow-up,Dr. Wanjiru,General Medicine,None,7382.74,Pending
+8384,Peter Chebet,Male,83,254770861042,21/09/2023,Asthma,Surgery,Dr. Njeri,General Medicine,APA Insurance,47215.89,Paid
+4211,John Otieno,Female,79,254762328393,17/07/2021,Allergy,Surgery,Dr. Cherono,Orthopedics,AAR Healthcare,11950.99,Pending
+3994,Mercy Chebet,Male,71,254742641707,12/05/2020,Hypertension,Surgery,Dr. Mutua,Pediatrics,Jubilee,13408.50,Paid
+8209,Kevin Njeri,Female,47,254725217841,18/07/2020,Hypertension,Admission,Dr. Ouma,Orthopedics,None,24264.86,Paid
+2941,Esther Obuya,Male,75,254716957676,05/01/2021,Malaria,Lab Tests,Dr. Atieno,Dermatology,AAR Healthcare,8996.49,Paid
+8567,John Njeri,Female,83,254716379015,29/02/2024,Flu,Admission,Dr. Atieno,Neurology,APA Insurance,10223.23,Partially Paid
+6691,Mercy Kiplagat,Male,58,254797473704,10/03/2021,Diabetes,Lab Tests,Dr. Odhiambo,General Medicine,None,28361.19,Pending
+7268,John Kiplagat,Male,12,254784242404,29/05/2023,Typhoid,Admission,Dr. Kamau,Neurology,Jubilee,4154.16,Partially Paid
+4716,John Otieno,Female,63,254778650339,09/03/2024,Diabetes,Follow-up,Dr. Obuya,Pediatrics,Britam,26500.54,Partially Paid
+4002,James Mutua,Female,77,254749615708,03/05/2023,Flu,Lab Tests,Dr. Otieno,Neurology,APA Insurance,35122.45,Pending
+8338,James Njeri,Female,12,254720675832,27/02/2022,Flu,Physiotherapy,Dr. Cherono,Cardiology,None,30193.80,Partially Paid
+4435,Peter Obuya,Female,71,254750658846,01/08/2024,Asthma,Surgery,Dr. Wanjiru,Pediatrics,Jubilee,24849.69,Partially Paid
+8052,Jane Chebet,Male,65,254788575299,12/03/2020,Typhoid,Follow-up,Dr. Chebet,General Medicine,APA Insurance,24264.66,Partially Paid
+3162,Mercy Njeri,Female,9,254775554767,12/02/2024,Hypertension,Admission,Dr. Wanjiru,Oncology,NHIF,49511.95,Pending
+6090,Mercy Chebet,Male,51,254789810205,10/08/2022,Diabetes,Surgery,Dr. Mwangi,General Medicine,NHIF,17240.07,Pending
+5980,Paul Njeri,Female,67,254772540812,01/04/2023,Flu,Medication,Dr. Kiplagat,Orthopedics,Britam,9028.52,Paid
+4404,David Wanjiru,Female,57,254794475929,10/03/2022,Allergy,Follow-up,Dr. Njeri,Orthopedics,Britam,41079.68,Pending
+5468,Susan Kuria,Female,83,254796343748,03/12/2020,Typhoid,Admission,Dr. Mutua,Dermatology,Jubilee,24145.13,Pending
+4568,Esther Wanjiru,Male,68,254728565607,06/02/2022,Diabetes,Surgery,Dr. Kamau,General Medicine,AAR Healthcare,1735.70,Partially Paid
+5006,Mercy Ouma,Female,80,254773483364,05/06/2022,Malaria,Medication,Dr. Otieno,Dermatology,Jubilee,7455.56,Paid
+6209,Grace Kamau,Male,27,254750191453,04/04/2021,Asthma,Surgery,Dr. Mugambi,Orthopedics,None,44654.52,Partially Paid
+2100,Susan Mutua,Female,85,254755734555,09/08/2024,Diabetes,Medication,Dr. Cherono,Dermatology,NHIF,37388.47,Paid
+6644,James Atieno,Female,14,254742987306,19/04/2021,Diabetes,Follow-up,Dr. Atieno,Orthopedics,None,28312.63,Pending
+5127,Mercy Kuria,Male,40,254710310986,23/10/2023,Hypertension,Follow-up,Dr. Mutua,General Medicine,Britam,19256.48,Paid
+9525,Jane Kamau,Female,2,254758300419,07/03/2025,Allergy,Lab Tests,Dr. Obuya,Cardiology,APA Insurance,18214.02,Partially Paid
+8667,Mercy Ouma,Female,21,254763932760,28/05/2021,Flu,Lab Tests,Dr. Kamau,Dermatology,APA Insurance,13697.65,Pending
+7522,Mercy Mugambi,Female,16,254754550217,23/05/2021,Flu,Medication,Dr. Mutua,Pediatrics,Britam,8340.72,Partially Paid
+8189,Mary Mugambi,Female,64,254790183765,14/08/2024,Asthma,Medication,Dr. Obuya,General Medicine,Jubilee,44137.03,Pending
+8974,Brian Odhiambo,Male,43,254752394382,02/07/2023,Asthma,Lab Tests,Dr. Atieno,Neurology,Jubilee,33157.48,Partially Paid
+3777,Anne Mutua,Male,34,254789430776,13/09/2022,Diabetes,Follow-up,Dr. Mutua,Neurology,APA Insurance,45988.28,Pending
+2111,James Mutua,Male,22,254754161193,12/06/2021,Hypertension,Follow-up,Dr. Ouma,Neurology,Jubilee,45663.03,Partially Paid
+8324,Michael Kiplagat,Female,57,254794451621,05/02/2020,Malaria,Admission,Dr. Otieno,Cardiology,AAR Healthcare,4012.42,Partially Paid
+4289,Brian Ouma,Female,31,254720214385,27/07/2024,Malaria,Medication,Dr. Odhiambo,Orthopedics,APA Insurance,11777.85,Pending
+5014,Anne Cherono,Female,12,254720704848,19/08/2024,Malaria,Lab Tests,Dr. Kuria,Pediatrics,None,18142.04,Paid
+3964,Esther Wanjiru,Male,29,254799978331,10/03/2024,Flu,Physiotherapy,Dr. Otieno,General Medicine,APA Insurance,14810.48,Paid
+8343,Susan Njeri,Male,12,254768706158,02/10/2023,Flu,Medication,Dr. Odhiambo,Orthopedics,APA Insurance,31622.38,Partially Paid
+9528,Brian Mugambi,Female,71,254714699910,13/12/2020,Hypertension,Admission,Dr. Otieno,Orthopedics,None,33986.95,Partially Paid
+2297,Michael Wanjiru,Male,64,254751218740,30/04/2021,Asthma,Admission,Dr. Obuya,Oncology,NHIF,30097.18,Pending
+4104,Michael Kamau,Male,55,254784708804,04/06/2024,Allergy,Medication,Dr. Odhiambo,Dermatology,Jubilee,15887.50,Pending
+7842,Mary Obuya,Male,57,254791589218,07/04/2024,Asthma,Medication,Dr. Otieno,General Medicine,Britam,35937.12,Pending
+7595,Kevin Ouma,Female,35,254780329778,23/07/2020,Flu,Physiotherapy,Dr. Odhiambo,Pediatrics,None,7785.62,Pending
+5153,Brian Otieno,Female,15,254727992663,28/07/2023,Allergy,Surgery,Dr. Odhiambo,Pediatrics,Jubilee,31494.33,Paid
+3539,Peter Odhiambo,Female,34,254728575424,02/03/2022,Asthma,Lab Tests,Dr. Kiplagat,General Medicine,Jubilee,33779.89,Partially Paid
+5383,David Ouma,Female,52,254734309841,21/02/2023,Diabetes,Lab Tests,Dr. Otieno,Dermatology,AAR Healthcare,34810.66,Pending
+4476,Jane Kuria,Male,20,254730310536,30/08/2021,Asthma,Surgery,Dr. Kamau,General Medicine,Britam,9891.24,Paid
+1488,Mercy Mutua,Male,76,254712917830,29/09/2022,Typhoid,Lab Tests,Dr. Otieno,Dermatology,AAR Healthcare,8179.88,Partially Paid
+1167,David Kuria,Female,78,254763526477,23/05/2023,Diabetes,Medication,Dr. Kiplagat,Dermatology,APA Insurance,11299.59,Partially Paid
+6380,Michael Mutua,Male,63,254716910313,26/03/2025,Malaria,Physiotherapy,Dr. Odhiambo,Pediatrics,Britam,43357.13,Partially Paid
+5753,Mercy Atieno,Male,7,254717410563,04/08/2022,Hypertension,Physiotherapy,Dr. Cherono,Orthopedics,APA Insurance,34050.86,Pending
+7936,Grace Chebet,Male,37,254792801039,10/08/2020,Asthma,Physiotherapy,Dr. Odhiambo,General Medicine,None,34802.77,Partially Paid
+1819,Mary Mutua,Male,76,254785129623,22/10/2021,Diabetes,Follow-up,Dr. Obuya,Cardiology,Britam,26068.75,Paid
+5065,Paul Otieno,Female,61,254774700606,26/11/2022,Malaria,Follow-up,Dr. Wanjiru,General Medicine,Jubilee,44732.45,Partially Paid
+8407,David Wanjiru,Male,16,254781335265,18/11/2020,Malaria,Medication,Dr. Kuria,Dermatology,NHIF,23523.10,Paid
+1675,Anne Kiplagat,Male,4,254794987193,19/07/2024,Malaria,Medication,Dr. Njeri,Orthopedics,None,4749.24,Partially Paid
+1057,Mary Kamau,Male,12,254711473913,12/05/2024,Diabetes,Surgery,Dr. Kamau,Oncology,Jubilee,45575.35,Paid
+4765,Susan Kamau,Male,16,254772275840,09/11/2024,Allergy,Follow-up,Dr. Odhiambo,Dermatology,APA Insurance,34503.09,Paid
+2114,Susan Kiplagat,Male,72,254737721026,03/09/2023,Malaria,Follow-up,Dr. Kamau,Oncology,Jubilee,31396.87,Pending
+8725,David Obuya,Female,6,254789510091,24/10/2024,Malaria,Medication,Dr. Chebet,Orthopedics,None,47003.68,Pending
+9884,Mary Ouma,Female,35,254729668214,21/06/2023,Flu,Follow-up,Dr. Kiplagat,Oncology,APA Insurance,12010.07,Partially Paid
+6728,Mary Wanjiru,Male,40,254770730131,02/04/2024,Hypertension,Medication,Dr. Mugambi,Oncology,APA Insurance,49252.28,Paid
+3265,Mercy Odhiambo,Female,64,254798208448,01/07/2021,Typhoid,Lab Tests,Dr. Mutua,Orthopedics,AAR Healthcare,2882.82,Paid
+9441,Jane Ouma,Male,52,254790961781,08/04/2022,Flu,Medication,Dr. Kamau,Neurology,NHIF,3964.75,Partially Paid
+8743,Esther Chebet,Female,40,254717156609,18/04/2024,Hypertension,Admission,Dr. Mugambi,General Medicine,AAR Healthcare,35418.52,Pending
+2903,Jane Mwangi,Male,39,254780562485,22/01/2023,Diabetes,Admission,Dr. Wanjiru,Neurology,Jubilee,10005.21,Pending
+1919,Mercy Njeri,Male,32,254750274565,24/12/2020,Typhoid,Admission,Dr. Odhiambo,Dermatology,NHIF,13625.44,Pending
+8623,Michael Njeri,Female,66,254769586428,11/10/2024,Allergy,Physiotherapy,Dr. Ouma,Dermatology,APA Insurance,43416.11,Pending
+5427,James Kamau,Male,24,254736530779,29/03/2020,Malaria,Lab Tests,Dr. Kuria,General Medicine,NHIF,15530.91,Paid
+8253,Grace Kamau,Female,74,254780550134,30/06/2024,Asthma,Medication,Dr. Kuria,Oncology,AAR Healthcare,48545.99,Pending
+7285,Peter Mwangi,Male,33,254796473333,07/06/2021,Typhoid,Surgery,Dr. Kamau,Cardiology,Jubilee,37448.76,Paid
+8037,David Kiplagat,Male,59,254787158108,02/09/2022,Typhoid,Medication,Dr. Ouma,Cardiology,APA Insurance,17885.89,Partially Paid
+9711,Susan Mwangi,Female,62,254793837315,17/06/2022,Hypertension,Admission,Dr. Atieno,Cardiology,APA Insurance,15902.02,Pending
+7206,Michael Mugambi,Female,70,254748680760,23/04/2022,Hypertension,Follow-up,Dr. Wanjiru,Oncology,Britam,12611.76,Partially Paid
+4118,Mercy Chebet,Male,48,254745524753,02/08/2021,Asthma,Surgery,Dr. Mugambi,Oncology,Britam,42312.06,Partially Paid
+4184,Susan Chebet,Male,20,254760641779,07/09/2022,Malaria,Surgery,Dr. Mutua,Orthopedics,Jubilee,34493.68,Paid
+4845,Jane Ouma,Female,70,254719418706,14/12/2024,Flu,Admission,Dr. Obuya,Dermatology,AAR Healthcare,21979.93,Pending
+7705,Brian Wanjiru,Female,55,254782645119,31/10/2024,Allergy,Medication,Dr. Otieno,Oncology,AAR Healthcare,3216.05,Pending
+6602,Esther Kamau,Female,44,254773890311,26/06/2020,Diabetes,Medication,Dr. Kamau,Pediatrics,AAR Healthcare,12427.68,Pending
+5734,David Mugambi,Male,17,254759155174,08/09/2024,Hypertension,Lab Tests,Dr. Mugambi,General Medicine,Jubilee,4349.41,Partially Paid
+3516,Jane Kiplagat,Male,47,254796277689,06/02/2023,Malaria,Admission,Dr. Otieno,Neurology,Jubilee,24527.76,Paid
+5807,Susan Mugambi,Female,62,254721213323,15/10/2024,Allergy,Admission,Dr. Atieno,Oncology,APA Insurance,20495.17,Partially Paid
+7550,Anne Mugambi,Female,18,254725569561,01/09/2021,Diabetes,Physiotherapy,Dr. Mugambi,Pediatrics,None,36596.21,Partially Paid
+8572,Esther Obuya,Female,37,254787313572,02/04/2023,Diabetes,Admission,Dr. Cherono,Orthopedics,None,5930.00,Pending
+1234,David Mwangi,Female,29,254784557147,11/11/2023,Hypertension,Lab Tests,Dr. Chebet,Oncology,None,28282.27,Paid
+6637,Paul Mutua,Male,76,254738983734,15/03/2022,Asthma,Lab Tests,Dr. Chebet,Dermatology,NHIF,25396.75,Pending
+8887,Mercy Mugambi,Female,9,254725394096,20/05/2021,Hypertension,Admission,Dr. Cherono,Neurology,AAR Healthcare,35560.97,Pending
+5450,Mercy Kuria,Female,33,254719814247,17/04/2020,Flu,Physiotherapy,Dr. Obuya,Oncology,Britam,40099.79,Pending
+5053,John Ouma,Female,10,254726312813,20/08/2021,Flu,Surgery,Dr. Wanjiru,Cardiology,APA Insurance,38428.65,Partially Paid
+4629,Kevin Cherono,Female,58,254735286810,02/10/2023,Typhoid,Physiotherapy,Dr. Kuria,Orthopedics,None,21388.17,Partially Paid
+8436,Peter Kuria,Male,11,254727787967,30/01/2025,Allergy,Medication,Dr. Chebet,Pediatrics,APA Insurance,29439.50,Partially Paid
+8224,Michael Chebet,Male,51,254763982209,20/02/2020,Asthma,Lab Tests,Dr. Cherono,Cardiology,None,24023.85,Pending
+5331,Brian Obuya,Female,32,254737158754,25/06/2021,Diabetes,Physiotherapy,Dr. Atieno,Dermatology,None,12384.60,Paid
+6351,Brian Ouma,Female,81,254799765083,17/06/2024,Malaria,Admission,Dr. Cherono,Neurology,APA Insurance,35003.91,Paid
+5442,John Kiplagat,Female,73,254748934774,07/06/2022,Allergy,Lab Tests,Dr. Odhiambo,Neurology,AAR Healthcare,10596.58,Pending
+5135,Paul Cherono,Male,5,254737323205,09/10/2020,Asthma,Physiotherapy,Dr. Mutua,Neurology,APA Insurance,23440.04,Pending
+5884,Kevin Atieno,Female,52,254765283265,08/07/2021,Asthma,Admission,Dr. Kiplagat,Oncology,Britam,13398.30,Pending
+1153,David Kamau,Female,81,254729185481,19/12/2023,Diabetes,Lab Tests,Dr. Kiplagat,Dermatology,AAR Healthcare,41181.16,Paid
+5896,David Atieno,Male,62,254775780245,04/12/2021,Diabetes,Lab Tests,Dr. Kiplagat,General Medicine,Jubilee,31422.95,Partially Paid
+7014,Michael Mugambi,Male,14,254798700210,18/12/2024,Allergy,Follow-up,Dr. Chebet,Oncology,Jubilee,44792.33,Pending
+5923,Kevin Odhiambo,Male,71,254710815728,04/08/2020,Hypertension,Lab Tests,Dr. Kuria,General Medicine,APA Insurance,35620.74,Paid
+3443,Kevin Kamau,Female,3,254741547001,05/01/2025,Flu,Physiotherapy,Dr. Njeri,Neurology,Britam,5533.57,Partially Paid
+6405,Susan Ouma,Male,2,254730315983,09/02/2025,Typhoid,Medication,Dr. Mwangi,Orthopedics,Britam,43344.29,Partially Paid
+5377,Paul Kiplagat,Female,9,254790964417,29/09/2024,Asthma,Follow-up,Dr. Obuya,General Medicine,None,37167.78,Paid
+6760,John Kuria,Male,81,254750452992,07/02/2023,Flu,Medication,Dr. Otieno,General Medicine,Britam,7314.50,Paid
+7040,John Otieno,Male,54,254718536808,30/10/2022,Typhoid,Surgery,Dr. Mwangi,Pediatrics,APA Insurance,1546.34,Paid
+6783,Jane Kuria,Male,65,254722776938,24/08/2022,Malaria,Follow-up,Dr. Kuria,Oncology,Britam,29951.85,Pending
+9626,Kevin Atieno,Female,46,254766840616,17/01/2024,Diabetes,Surgery,Dr. Chebet,General Medicine,NHIF,48238.11,Paid
+3596,Esther Cherono,Female,48,254724942711,21/12/2022,Asthma,Follow-up,Dr. Wanjiru,Pediatrics,APA Insurance,14181.73,Paid
+2225,Mercy Mugambi,Female,43,254732452132,12/05/2024,Malaria,Follow-up,Dr. Kuria,Cardiology,NHIF,3537.21,Pending
+3172,Mercy Kuria,Female,24,254718618171,18/09/2020,Diabetes,Physiotherapy,Dr. Atieno,General Medicine,Jubilee,42603.04,Pending
+9298,Anne Kuria,Male,11,254775797678,23/11/2022,Asthma,Medication,Dr. Obuya,Oncology,None,23243.18,Pending
+5177,Mary Kiplagat,Male,40,254745244348,16/05/2021,Flu,Lab Tests,Dr. Kiplagat,General Medicine,NHIF,24344.06,Paid
+9285,Mary Kiplagat,Female,73,254762157003,02/11/2022,Hypertension,Physiotherapy,Dr. Otieno,Oncology,Britam,49568.76,Paid
+7706,Anne Ouma,Female,25,254734604445,16/11/2022,Typhoid,Surgery,Dr. Otieno,Cardiology,APA Insurance,10710.79,Paid
+6540,James Kuria,Female,14,254785606651,08/06/2023,Typhoid,Surgery,Dr. Cherono,Cardiology,AAR Healthcare,29230.18,Pending
+6915,Jane Kiplagat,Female,38,254793380081,21/07/2022,Malaria,Medication,Dr. Obuya,General Medicine,Britam,43186.94,Pending
+8032,Paul Chebet,Male,36,254762484774,12/05/2021,Flu,Medication,Dr. Chebet,Pediatrics,NHIF,22536.20,Paid
+5382,James Atieno,Male,51,254757691595,20/02/2023,Allergy,Medication,Dr. Obuya,Cardiology,AAR Healthcare,18916.14,Partially Paid
+7685,Susan Obuya,Female,68,254789976623,01/12/2023,Malaria,Physiotherapy,Dr. Kiplagat,Oncology,APA Insurance,11110.91,Paid
+9211,Brian Kiplagat,Male,65,254730756337,25/09/2021,Diabetes,Lab Tests,Dr. Cherono,General Medicine,None,10301.47,Paid
+9016,David Kamau,Male,7,254759810147,27/09/2023,Typhoid,Medication,Dr. Wanjiru,Orthopedics,None,31871.08,Paid
+4939,Jane Cherono,Female,18,254757790741,05/12/2024,Diabetes,Lab Tests,Dr. Ouma,Neurology,NHIF,27685.92,Partially Paid
+7483,Brian Kiplagat,Male,27,254796682246,21/09/2024,Allergy,Lab Tests,Dr. Atieno,Oncology,None,28062.76,Paid
+7710,Mercy Kamau,Female,33,254781279890,19/12/2020,Asthma,Lab Tests,Dr. Odhiambo,General Medicine,AAR Healthcare,48616.07,Partially Paid
+6873,Michael Mugambi,Female,59,254715682617,01/04/2024,Asthma,Medication,Dr. Mwangi,Pediatrics,Britam,41084.52,Paid
+9468,Mercy Obuya,Male,80,254727111861,02/08/2021,Malaria,Admission,Dr. Atieno,Orthopedics,Jubilee,18626.98,Pending
+1092,John Atieno,Female,9,254792128467,30/03/2025,Malaria,Follow-up,Dr. Chebet,Neurology,None,29484.26,Paid
+4776,Paul Mugambi,Male,66,254798767358,18/10/2024,Allergy,Admission,Dr. Wanjiru,Cardiology,NHIF,1942.52,Paid
+2307,Susan Cherono,Male,10,254779528973,17/05/2022,Diabetes,Surgery,Dr. Kamau,Neurology,None,48048.40,Paid
+9046,Paul Mwangi,Male,32,254739731311,18/03/2024,Allergy,Lab Tests,Dr. Kiplagat,General Medicine,Jubilee,22087.62,Pending
+4094,Brian Otieno,Female,34,254789723932,03/08/2022,Malaria,Follow-up,Dr. Mutua,Cardiology,AAR Healthcare,37031.05,Partially Paid
+3308,Michael Cherono,Male,73,254754165558,07/04/2023,Hypertension,Medication,Dr. Mutua,Cardiology,APA Insurance,5175.19,Partially Paid
+6886,Grace Mugambi,Female,2,254754187758,19/02/2025,Diabetes,Follow-up,Dr. Atieno,Neurology,AAR Healthcare,40141.64,Paid
+1566,Jane Atieno,Male,67,254712136438,04/01/2025,Flu,Lab Tests,Dr. Kiplagat,Pediatrics,Jubilee,32542.92,Partially Paid
+7934,Esther Ouma,Female,52,254798697894,15/04/2020,Asthma,Surgery,Dr. Atieno,Pediatrics,None,4834.57,Pending
+1366,Susan Odhiambo,Male,71,254799515830,18/04/2024,Diabetes,Follow-up,Dr. Atieno,Dermatology,AAR Healthcare,10715.24,Paid
+7976,Mercy Kamau,Female,6,254794134873,12/06/2023,Malaria,Lab Tests,Dr. Ouma,Pediatrics,Jubilee,10232.59,Partially Paid
+8044,Kevin Mugambi,Male,34,254748830321,09/04/2023,Asthma,Follow-up,Dr. Cherono,Pediatrics,Jubilee,7375.68,Partially Paid
+4060,Michael Kamau,Female,26,254734243180,04/08/2020,Asthma,Medication,Dr. Mwangi,General Medicine,APA Insurance,19577.04,Pending
+5359,Brian Wanjiru,Female,59,254754380588,21/03/2025,Asthma,Surgery,Dr. Obuya,Pediatrics,AAR Healthcare,36571.06,Paid
+1341,Grace Obuya,Female,68,254733888486,24/12/2024,Allergy,Physiotherapy,Dr. Chebet,General Medicine,Britam,27115.63,Paid
+9112,Susan Atieno,Male,65,254776220707,25/08/2021,Malaria,Lab Tests,Dr. Ouma,Oncology,NHIF,9249.02,Partially Paid
+3693,Kevin Kamau,Male,71,254711638031,09/05/2020,Asthma,Lab Tests,Dr. Mwangi,Pediatrics,None,43920.48,Pending
+8036,Kevin Obuya,Male,36,254739309490,29/10/2021,Typhoid,Admission,Dr. Odhiambo,Oncology,Britam,24574.04,Partially Paid
+2877,Susan Cherono,Male,50,254725190793,22/06/2023,Flu,Follow-up,Dr. Obuya,Neurology,None,7540.90,Paid
+4595,Susan Kiplagat,Female,70,254762875796,27/11/2020,Diabetes,Lab Tests,Dr. Obuya,Dermatology,AAR Healthcare,43958.83,Paid
+6553,Grace Cherono,Male,78,254798842411,12/06/2023,Flu,Lab Tests,Dr. Wanjiru,Dermatology,Britam,21517.12,Paid
+2509,Anne Mwangi,Male,54,254720241873,15/12/2020,Typhoid,Physiotherapy,Dr. Mwangi,Oncology,Britam,33808.16,Pending
+1489,Peter Njeri,Male,14,254744908629,17/07/2022,Typhoid,Physiotherapy,Dr. Cherono,General Medicine,AAR Healthcare,29129.58,Partially Paid
+5233,Peter Ouma,Male,25,254787965721,24/01/2025,Hypertension,Admission,Dr. Njeri,Neurology,NHIF,49855.09,Partially Paid
+7658,Mary Kamau,Female,44,254789629276,20/05/2023,Typhoid,Lab Tests,Dr. Ouma,Pediatrics,Jubilee,45433.93,Paid
+8861,Anne Chebet,Female,8,254727828483,28/02/2021,Allergy,Physiotherapy,Dr. Atieno,Neurology,AAR Healthcare,634.98,Paid
+7349,Grace Chebet,Male,16,254741433211,19/09/2022,Allergy,Physiotherapy,Dr. Mutua,Cardiology,Britam,26177.71,Paid
+4598,Kevin Wanjiru,Female,36,254759619799,03/12/2020,Asthma,Medication,Dr. Mwangi,General Medicine,Britam,5792.24,Pending
+9548,Brian Kuria,Female,8,254791528789,29/10/2022,Diabetes,Medication,Dr. Atieno,Neurology,None,3827.28,Paid
+1382,John Kamau,Female,74,254720991515,13/08/2020,Allergy,Lab Tests,Dr. Kuria,Cardiology,NHIF,45575.98,Paid
+6493,Paul Kiplagat,Female,70,254770276079,07/07/2020,Diabetes,Physiotherapy,Dr. Mutua,Oncology,None,31467.01,Paid
+1310,James Wanjiru,Female,27,254716991358,27/04/2022,Allergy,Follow-up,Dr. Kiplagat,Orthopedics,AAR Healthcare,13610.74,Pending
+4117,Jane Kuria,Female,84,254782364952,05/02/2021,Diabetes,Follow-up,Dr. Kiplagat,Dermatology,Jubilee,37195.52,Pending
+4537,Mercy Wanjiru,Male,9,254777488865,06/02/2022,Malaria,Medication,Dr. Otieno,Dermatology,AAR Healthcare,40811.29,Partially Paid
+5973,Mercy Chebet,Female,8,254771701912,11/03/2024,Flu,Admission,Dr. Ouma,Orthopedics,None,44862.25,Pending
+5413,Grace Odhiambo,Male,45,254779763604,14/12/2023,Typhoid,Physiotherapy,Dr. Otieno,Pediatrics,APA Insurance,41497.36,Paid
+2184,Anne Kuria,Male,26,254755718356,24/06/2021,Asthma,Admission,Dr. Chebet,Oncology,APA Insurance,47700.97,Pending
+1322,Jane Kamau,Male,12,254717291727,13/11/2023,Allergy,Medication,Dr. Odhiambo,Oncology,None,30187.19,Paid
+1690,Kevin Kiplagat,Female,84,254781375501,12/11/2021,Hypertension,Physiotherapy,Dr. Mugambi,Cardiology,APA Insurance,9139.81,Paid
+1145,John Ouma,Female,22,254720749625,31/05/2020,Diabetes,Physiotherapy,Dr. Mutua,General Medicine,AAR Healthcare,25073.07,Paid
+3865,Jane Kiplagat,Male,29,254733579781,07/12/2020,Diabetes,Lab Tests,Dr. Atieno,General Medicine,Jubilee,10355.31,Partially Paid
+8231,Michael Njeri,Female,72,254724362029,08/03/2022,Diabetes,Physiotherapy,Dr. Kiplagat,Neurology,NHIF,28113.25,Partially Paid
+9068,Anne Mutua,Female,4,254737221076,29/12/2023,Allergy,Surgery,Dr. Chebet,Cardiology,Jubilee,35443.58,Paid
+3195,David Wanjiru,Female,48,254737945450,16/04/2024,Flu,Lab Tests,Dr. Odhiambo,Orthopedics,Jubilee,11631.58,Partially Paid
+6018,Esther Kiplagat,Female,33,254746443374,24/01/2021,Diabetes,Surgery,Dr. Ouma,Dermatology,APA Insurance,10314.21,Pending
+5678,Jane Atieno,Female,54,254760734234,10/10/2021,Hypertension,Admission,Dr. Kuria,Cardiology,Britam,1304.53,Paid
+2004,James Mutua,Male,71,254719260176,07/09/2022,Typhoid,Physiotherapy,Dr. Mugambi,Oncology,NHIF,36952.49,Partially Paid
+2862,Kevin Mutua,Male,67,254744561285,11/09/2020,Flu,Physiotherapy,Dr. Kamau,Cardiology,None,13660.49,Paid
+9451,Susan Chebet,Female,42,254715585029,01/07/2022,Malaria,Lab Tests,Dr. Otieno,Cardiology,None,39795.26,Pending
+2436,Esther Kuria,Male,56,254765619736,27/03/2023,Hypertension,Follow-up,Dr. Kamau,Neurology,Jubilee,41439.92,Paid
+3931,Jane Mugambi,Female,11,254781874797,31/03/2023,Flu,Medication,Dr. Chebet,Orthopedics,AAR Healthcare,41351.19,Partially Paid
+7512,Jane Mwangi,Male,59,254750427093,29/05/2024,Asthma,Physiotherapy,Dr. Cherono,Orthopedics,AAR Healthcare,41691.38,Partially Paid
+8360,Grace Otieno,Male,73,254721272203,11/12/2021,Flu,Follow-up,Dr. Kiplagat,Neurology,Britam,38613.21,Partially Paid
+1229,Grace Kuria,Female,36,254746907917,04/11/2020,Typhoid,Lab Tests,Dr. Mutua,General Medicine,AAR Healthcare,28391.71,Pending
+8016,Mercy Obuya,Male,6,254713541924,21/02/2020,Flu,Follow-up,Dr. Njeri,Pediatrics,Jubilee,27626.80,Pending
+1054,James Kuria,Female,83,254784777197,25/08/2021,Allergy,Follow-up,Dr. Cherono,Cardiology,None,49218.73,Paid
+4171,Michael Ouma,Male,23,254744640142,23/03/2024,Hypertension,Follow-up,Dr. Njeri,Orthopedics,Britam,10446.41,Partially Paid
+1128,John Kiplagat,Female,1,254736374944,15/05/2020,Flu,Lab Tests,Dr. Ouma,Oncology,NHIF,44241.85,Partially Paid
+2405,Mary Mugambi,Female,44,254797176843,16/03/2023,Asthma,Surgery,Dr. Odhiambo,Cardiology,APA Insurance,38518.01,Paid
+6539,Mercy Wanjiru,Male,59,254788250694,25/10/2021,Allergy,Admission,Dr. Wanjiru,Pediatrics,Britam,7056.04,Pending
+6522,David Njeri,Female,31,254790188892,05/04/2024,Typhoid,Physiotherapy,Dr. Kamau,Dermatology,APA Insurance,17116.32,Paid
+3888,John Njeri,Male,5,254752954234,22/09/2021,Asthma,Physiotherapy,Dr. Odhiambo,Neurology,Britam,8314.82,Partially Paid
+4290,Peter Mutua,Female,52,254727138691,27/04/2024,Typhoid,Physiotherapy,Dr. Kiplagat,Dermatology,None,6734.55,Partially Paid
+2129,Kevin Atieno,Female,45,254762328198,06/02/2023,Allergy,Medication,Dr. Kiplagat,Neurology,NHIF,36120.37,Paid
+9903,Anne Ouma,Female,50,254724273217,08/08/2021,Flu,Medication,Dr. Mutua,Neurology,Britam,49760.79,Paid
+6986,David Otieno,Female,53,254746866525,29/01/2021,Hypertension,Admission,Dr. Chebet,Cardiology,APA Insurance,4029.61,Pending
