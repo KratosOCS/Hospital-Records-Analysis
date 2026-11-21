@@ -217,3 +217,79 @@ After creating the table, I converted my Excel worksheet into a CSV file and imp
 
 Seeing the data appear correctly inside the SQL table was a great confirmation that the preparation steps had been done properly. Now that the dataset is successfully stored in SQL, the next phase will involve exploring the data using SQL queries.
 
+### Writing SQL basic queries
+Before running any queries, I made sure I was working in the correct schema.
+``SET search_path TO hospital;
+SHOW search_path;``
+
+This allowed me to reference my tables without having to specify the schema name every time. Once I confirmed the data was there, I started asking simple analytical questions.
+
+### How many patients are there by gender?
+```
+SELECT gender,COUNT(*) AS n_patients
+FROM patient_records
+GROUP BY gender;
+```
+
+This was my first experience using the ``COUNT()``
+ aggregate function together with ``GROUP BY``. Instead of listing every patient, SQL summarised  the data into meaningful groups.
+
+### Counting patients by department
+Next, I wanted to understand how patients were distributed across hospital departments.
+
+```
+SELECT hospital_department, COUNT(*) AS n_patients
+FROM patient_records
+GROUP BY hospital_department;
+```
+
+This query quickly showed how many patients belonged to each department without manually counting rows.
+
+### Analysing payment status
+I then grouped patients based on their payment status.
+
+```
+SELECT payment_status, COUNT(*) AS n_patients
+FROM patient_records
+GROUP BY payment_status;
+```
+
+This simple query demonstrates how SQL can instantly summarise business information that would take much longer to calculate manually.
+
+### Looking at treatment plans
+I also wanted to understand the different treatment plans stored in the dataset.
+
+```
+SELECT treatment_plan, COUNT(*) AS n_patients
+FROM patient_records
+GROUP BY treatment_plan;
+```
+
+### Listing treatment plans
+```
+SELECT treatment_plan
+FROM patient_records
+GROUP BY treatment_plan;
+```
+
+The results showed treatment plans such as:
+
+- Admission
+- Medication
+- Lab Tests
+- Follow-up
+- Surgery
+- Physiotherapy
+
+It was satisfying to see SQL return only the distinct treatment categories that exist in the dataset.
+
+What I learned:
+This exercise helped me understand several important SQL concepts:
+
+1. Using ``COUNT()`` to summarise data.
+2. Using ``GROUP BY`` to organise records into meaningful categories. 
+3. Creating readable output with column aliases.
+4. Writing cleaner queries by setting the schema path.
+5. Beginning to think like a data analyst by asking questions before writing queries.
+
+Although these are considered beginner SQL queries, they form the foundation of almost every data analysis project. If you're just starting your SQL journey, keep practicing. The simple queries you write today become the building blocks for much more advanced analysis tomorrow.
