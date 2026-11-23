@@ -207,7 +207,7 @@ A database is the overall container, while a schema helps organise related datab
 ### Creating Database Table
 Before importing the data, I first created a table in my SQL environment. I designed the table structure based on the columns available in the dataset, ensuring that each field had the correct data type and could store the information accurately.
 
-### Importing the Hospital Analysis dataset
+#### Importing the Hospital Analysis dataset
 After creating the table, I converted my Excel worksheet into a CSV file and imported it into the database after I verified that the data was loaded correctly.One of the things I paid attention to was ensuring that:
 
 - The column names matched correctly
@@ -217,14 +217,14 @@ After creating the table, I converted my Excel worksheet into a CSV file and imp
 
 Seeing the data appear correctly inside the SQL table was a great confirmation that the preparation steps had been done properly. Now that the dataset is successfully stored in SQL, the next phase will involve exploring the data using SQL queries.
 
-### Writing SQL basic queries
+#### Writing SQL basic queries
 Before running any queries, I made sure I was working in the correct schema.
 ``SET search_path TO hospital;
 SHOW search_path;``
 
 This allowed me to reference my tables without having to specify the schema name every time. Once I confirmed the data was there, I started asking simple analytical questions.
 
-### How many patients are there by gender?
+#### How many patients are there by gender?
 ```
 SELECT gender,COUNT(*) AS n_patients
 FROM patient_records
@@ -234,7 +234,7 @@ GROUP BY gender;
 This was my first experience using the ``COUNT()``
  aggregate function together with ``GROUP BY``. Instead of listing every patient, SQL summarised  the data into meaningful groups.
 
-### Counting patients by department
+#### Counting patients by department
 Next, I wanted to understand how patients were distributed across hospital departments.
 
 ```
@@ -245,7 +245,7 @@ GROUP BY hospital_department;
 
 This query quickly showed how many patients belonged to each department without manually counting rows.
 
-### Analysing payment status
+#### Analysing payment status
 I then grouped patients based on their payment status.
 
 ```
@@ -256,7 +256,7 @@ GROUP BY payment_status;
 
 This simple query demonstrates how SQL can instantly summarise business information that would take much longer to calculate manually.
 
-### Looking at treatment plans
+#### Looking at treatment plans
 I also wanted to understand the different treatment plans stored in the dataset.
 
 ```
@@ -265,7 +265,7 @@ FROM patient_records
 GROUP BY treatment_plan;
 ```
 
-### Listing treatment plans
+#### Listing treatment plans
 ```
 SELECT treatment_plan
 FROM patient_records
@@ -293,3 +293,39 @@ This exercise helped me understand several important SQL concepts:
 5. Beginning to think like a data analyst by asking questions before writing queries.
 
 Although these are considered beginner SQL queries, they form the foundation of almost every data analysis project. If you're just starting your SQL journey, keep practicing. The simple queries you write today become the building blocks for much more advanced analysis tomorrow.
+
+### Analyzing hospital insurance data
+#### 1. Identifying all the insurance providers
+
+```
+SELECT insurance_provider
+FROM patient_records
+GROUP BY insurance_provider
+ORDER BY insurance_provider ASC;
+```
+
+This query returned a clean list of unique insurance providers instead of displaying thousands of repeated values. It also introduced me to combining:
+
+``GROUP BY``
+``ORDER BY`` for alphabetical sorting
+
+Simple but incredibly useful when exploring unfamiliar data.
+
+#### 2. Calculating total hospital bills per Insurance provider
+
+```
+SELECT insurance_provider,SUM(bill_amount) AS total_bill
+FROM patient_records
+GROUP BY insurance_provider;
+```
+Instead of counting records, the ``SUM()`` aggregate function calculated the total billing amount for every insurance provider in just one query.
+
+#### 3. Filtering the hospital data
+I wanted to get more data on each insurance provider individually. I opted to use filtering to get further information from each insurance provider. For example, to analyze Britam, I wrote:
+```
+SELECT payment_status,SUM(bill_amount) AS total_bill
+FROM patient_records
+WHERE insurance_provider ILIKE 'Britam'
+GROUP BY payment_status;
+```
+Using the ``WHERE`` clause allowed me to focus on one insurance provider without being distracted by the rest of the dataset. One thing I learned was the usefulness of ``ILIKE`` in PostgreSQL. Unlike ``LIKE``, ``ILIKE`` performs case-insensitive matching. That means: ``Britam``, ``BRITAM``and ``britam``, would all return the same results. This makes queries more flexible, especially when datasets contain inconsistent capitalization. Repeating the same approach for NHIF, Jubilee, APA Insurance, AAR Healthcare, and uninsured patients helped reinforce an important lesson.

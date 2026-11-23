@@ -26,3 +26,23 @@ group by pr.treatment_plan;
 /*Treatment plans grouped*/
 select treatment_plan from patient_records pr 
 group by pr.treatment_plan;
+
+/*Doctors and the number of patients they treated each*/
+select doctor_name, count(*) as n_patients
+from patient_records
+group by doctor_name;
+
+/* All diagnosis*/
+select diagnosis from patient_records pr 
+group by diagnosis;
+
+/* Bills grouped by departments */
+select hospital_department, SUM(bill_amount) as total_bill
+from patient_records pr 
+group by hospital_department;
+
+/* Orthopedics department patients' payment status */
+SELECT payment_status, count (*) as n_patients
+FROM patient_records
+WHERE hospital_department ILIKE 'Orthopedics'
+GROUP BY payment_status;
