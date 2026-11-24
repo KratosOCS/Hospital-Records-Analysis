@@ -329,3 +329,44 @@ WHERE insurance_provider ILIKE 'Britam'
 GROUP BY payment_status;
 ```
 Using the ``WHERE`` clause allowed me to focus on one insurance provider without being distracted by the rest of the dataset. One thing I learned was the usefulness of ``ILIKE`` in PostgreSQL. Unlike ``LIKE``, ``ILIKE`` performs case-insensitive matching. That means: ``Britam``, ``BRITAM``and ``britam``, would all return the same results. This makes queries more flexible, especially when datasets contain inconsistent capitalization. Repeating the same approach for NHIF, Jubilee, APA Insurance, AAR Healthcare, and uninsured patients helped reinforce an important lesson.
+
+### Analyzing doctors data
+Today, I focused on analyzing hospital records from a doctor's perspective. Instead of writing queries just to retrieve rows, I started asking meaningful questions that someone in hospital management might actually ask. I explored questions such as:
+
+#### - How many doctors are available in the hospital?
+``select pr.doctor_name from patient_records pr
+group by doctor_name
+order by doctor_name asc;``
+
+#### - How many patients has each doctor treated?
+``select pr.doctor_name, count(*) as n_patients
+from patient_records pr 
+group by doctor_name
+order by doctor_name asc;``
+
+#### - Which patients were treated by a specific doctor?
+``select pr.patient_id, pr.patient_name  from patient_records pr  
+where pr.doctor_name ilike 'Dr. Chebet'
+group by patient_id;``
+
+#### - How many male and female patients did a particular doctor treat?
+``select gender, count (*) as n_patients
+from patient_records pr 
+where doctor_name ilike 'Dr. Cherono'
+group by gender;``
+
+#### - Which departments does each doctor work in?
+``select hospital_department from patient_records pr 
+where pr.doctor_name ilike 'Dr. Ouma'
+group by hospital_department;``
+
+
+These may seem like simple questions, but they're exactly the type of information hospitals use every day for reporting and decision-making. While working through this script, I strengthened my understanding of several SQL concepts: ``GROUP BY``, ``COUNT()``, ``ORDER BY``, ``WHERE`` and ``ILIKE``(case-insensitive searching)
+efore writing a query, I now try to think:
+
+- What information am I looking for?
+- Which columns contain that information?
+- How should the results be grouped?
+- Does this answer a real business question?
+
+That has helped me in writing queries much easier.
