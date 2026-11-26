@@ -115,3 +115,11 @@ group by hospital_department;
 select hospital_department from patient_records pr 
 where pr.doctor_name ilike 'Dr. Odhiambo'
 group by hospital_department;
+
+-- How many departments is each doctor in?
+select doctor_name, count(distinct hospital_department) as n_departments
+from patient_records pr
+group by doctor_name
+order by doctor_name asc;
+
+

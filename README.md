@@ -368,5 +368,92 @@ efore writing a query, I now try to think:
 - Which columns contain that information?
 - How should the results be grouped?
 - Does this answer a real business question?
-
 That has helped me in writing queries much easier.
+
+### Transforming a Flat Hospital dataset into a Relational Database
+As I continued building my Hospital Records Analysis project, I reached a point where simple SQL queries were no longer enough. Initially, all my hospital information existed in one table, the ``patient_records``. This table contained:
+
+- Patient details
+- Doctor information
+- Hospital departments
+- Visit details
+- Billing information
+- Payment information
+
+Although this structure was convenient for analysis, it introduced a challenge and it was data repetition. Doctor names and department names were stored repeatedly across thousands of patient records. This led me to my next SQL learning milestone, Database normalization. Moving From One Table to multiple related tables. I separated the data into smaller, purpose-driven tables:
+
+**1.Doctors Table**
+Stores unique doctor information.
+```
+doctor_id
+doctor_name
+```
+Each doctor now has a unique identifier instead of repeating the doctor's name in every record.
+
+**2. Departments Table**
+Stores hospital department information.
+```
+department_id
+department_name
+```
+
+**3. Patients Table**
+Stores patient information:
+```
+patient_id
+patient_name
+gender
+age
+phone_number
+insurance_provider
+```
+
+**4. Visits Table**
+The visits table became the connection point between the different entities. It stores:
+```
+visit_id
+patient_id
+doctor_id
+department_id
+date_of_visit
+diagnosis
+treatment_plan
+bill_amount
+payment_status
+```
+This table allows the database to understand relationships between patients, doctors, and departments.
+
+#### Introducing Primary and Foreign Keys
+
+One of the biggest concepts I learned during this stage was the importance of keys. Primary keys provide unique identification for each record.
+
+Examples:
+
+``doctor_id`` identifies a doctor.
+``patient_id`` identifies a patient.
+``department_id`` identifies a department.
+_**Foreign keys**_ allow tables to communicate with each other.
+
+For example:
+
+The visits table stores:
+``doctor_id
+patient_id
+department_id``
+
+These values reference records in other tables.
+
+**Populating the Visits Table**
+Instead of manually entering IDs, I used SQL relationships to populate the visits table from the original dataset. The process involved matching:
+
+``doctor names`` with the _doctors table_.
+``department names`` with the _departments table_.
+``patient IDs`` with the _patients table_.
+
+This was my first practical experience seeing why relational databases are powerful.
+This stage taught me that SQL is not only about querying data. A good analyst should understand:
+
+- How data is structured.
+- How tables relate.
+- How to reduce duplication.
+- How to design databases that support analysis.
