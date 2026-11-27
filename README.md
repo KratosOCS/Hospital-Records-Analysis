@@ -457,3 +457,43 @@ This stage taught me that SQL is not only about querying data. A good analyst sh
 - How tables relate.
 - How to reduce duplication.
 - How to design databases that support analysis.
+
+### INNER JOIN
+Before normalization, all my data lived in a single table. Although it was easy to query, it contained a lot of repeated information. After splitting the data into multiple tables, I avoided duplication, but I also needed a way to reconnect the related data whenever I wanted to analyze it. ``INNER JOIN`` allows me to do exactly that. My first query combined four tables to display complete hospital visit information.
+It brought together: Patient names, doctor names, department names, visit dates, diagnoses, treatment plans, bill amounts and payment status all in a single result set.
+
+```
+select
+    v.visit_id,
+    p.patient_name,
+    d.doctor_name,
+    dp.department_name,
+    v.date_of_visit,
+    v.diagnosis,
+    v.treatment_plan,
+    v.bill_amount,
+    v.payment_status
+from visits v
+inner join patients p
+    on v.patient_id = p.patient_id
+inner join doctors d
+    on v.doctor_id = d.doctor_id
+inner join departments dp
+    on v.department_id = dp.department_id
+order by v.visit_id;
+```
+
+Seeing information from multiple tables appear together made the purpose of database relationships much clearer. Once I understood the basics of ``INNER JOIN``, I started answering analytical questions such as:
+
+- How many patients has each doctor treated?
+- How many patients visited each department?
+- What is the average bill amount for each department?
+
+**What I Learned**
+Working with ``INNER JOIN`` taught me several important lessons:
+
+- Normalizing a database reduces data duplication.
+- Foreign keys connect related tables.
+- INNER JOIN retrieves only records that have matching values in both tables.
+- SQL becomes much more powerful when multiple tables work together.
+
